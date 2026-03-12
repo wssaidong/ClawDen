@@ -7,6 +7,7 @@
 ## 📋 目录
 
 - [项目地图](#项目地图)
+- [热门变种项目](#热门变种项目)
 - [核心变种](#核心变种)
 - [中国特色变种](#中国特色变种)
 - [自动化变种 (AutoClaw 系列)](#自动化变种-autoclaw-系列)
@@ -22,6 +23,11 @@
 
 ```
 OpenClaw (原 Clawdbot / Moltbot)
+    │
+    ├── 🔥 热门变种
+    │   ├── ZeroClaw        (最新旗舰，26k+ stars)
+    │   ├── nanoclaw        (轻量化替代，21k+ stars)
+    │   └── LangBot         (生产级机器人，15k+ stars)
     │
     ├── 🔥 核心变种
     │   ├── nanoclaw         (轻量化替代)
@@ -60,9 +66,82 @@ OpenClaw (原 Clawdbot / Moltbot)
 
 ---
 
+## 🔥 热门变种项目
+
+> 按 GitHub Stars 数量排序，数据来源 GitHub API
+
+| 排名 | 项目 | Stars | 描述 | 分类 |
+|------|------|-------|------|------|
+| 🥇 | **ZeroClaw** | ⭐ 26,298 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 | 核心变种 |
+| 🥈 | **awesome-openclaw-skills** | ⭐ 35,862 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥉 | **NanoClaw** | ⭐ 21,854 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 4 | **LangBot** | ⭐ 15,532 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 5 | **MemOS** | ⭐ 13,900 | 记忆操作系统 | 记忆系统 |
+| 6 | **memU** | ⭐ 12,900 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 7 | **MoltWorker** | ⭐ 9,573 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 8 | **ClawHub** | ⭐ 5,459 | OpenClaw 官方技能目录 | 工具与技能 |
+| 9 | **OpenClaw China** | ⭐ 2,913 | 中国插件全家桶（飞书/钉钉/QQ/微信） | 中国特色 |
+| 10 | **ClawX** | ⭐ 3,772 | 桌面客户端 | 工具与仪表板 |
+
+### 新增热门项目介绍
+
+#### 1. ZeroClaw ⭐ 26,298
+
+> 最新旗舰 - Fast, small, and fully autonomous AI assistant infrastructure
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
+| 语言 | Rust |
+| Stars | 26,298 |
+
+**简介**
+最新最热的 OpenClaw 变种！用 Rust 编写，提供快速、小巧、完全自主的 AI 助手基础设施。可部署到任何平台，灵活切换任何模型。
+
+**✅ 优点**
+- Rust 实现，性能极佳
+- 完全自主运行
+- 部署灵活 anywhere
+- 模型可 swap anything
+
+**❌ 缺点**
+- Rust 学习曲线
+- 社区较新
+
+**🎯 适用场景**
+- 高性能需求
+- 资源敏感环境
+- 追求最新技术
+
+---
+
+#### 2. awesome-openclaw-skills ⭐ 35,862
+
+> 技能精选集
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) |
+| Stars | 35,862 |
+
+**简介**
+OpenClaw 官方技能精选集，从官方技能注册表中筛选分类的 5400+ 技能。
+
+**✅ 优点**
+- 5400+ 技能可选
+- 精选分类
+- 持续更新
+
+**🎯 适用场景**
+- 技能选择困难
+- 需要特定领域技能
+
+
+---
+
 ## 🔥 核心变种
 
-### 1. NanoClaw ⭐ 21,782
+### 1. NanoClaw ⭐ 21,854
 
 > 轻量级替代方案，容器化运行
 
@@ -163,7 +242,7 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 
 ## 🇨🇳 中国特色变种
 
-### 1. OpenClaw China ⭐ 2,878
+### 1. OpenClaw China ⭐ 2,913
 
 > 中国插件全家桶
 
@@ -306,7 +385,7 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 
 ## 🛠️ 工具与仪表板
 
-### 1. ClawX ⭐ 3,693
+### 1. ClawX ⭐ 3,772
 
 > 桌面客户端
 
@@ -370,7 +449,7 @@ AI Agent 编排仪表板，管理多 agent 协作。
 
 ---
 
-### 4. MemOS ⭐ 6,654
+### 4. MemOS ⭐ 13,900
 
 > 记忆操作系统
 
@@ -389,7 +468,7 @@ AI Agent 编排仪表板，管理多 agent 协作。
 
 ---
 
-### 5. memU ⭐ 12,844
+### 5. memU ⭐ 12,900
 
 > 记忆系统
 
@@ -527,7 +606,7 @@ AutoClaw 技能扩展。
 
 ---
 
-### 2. LangBot ⭐ 15,530
+### 2. LangBot ⭐ 15,532
 
 > 生产级多平台智能机器人开发平台
 
@@ -977,16 +1056,17 @@ OpenClaw 官方技能目录。
 
 ## 📈 项目统计
 
-> 截至 2026-01-19
+> 截至 2026-03-12
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
-| 核心变种 | 4 | 21,782 (NanoClaw) |
-| 中国特色 | 3 | 3,031 |
+| 热门变种 | 10 | 35,862 (awesome-openclaw-skills) |
+| 核心变种 | 4 | 26,298 (ZeroClaw) |
+| 中国特色 | 3 | 15,532 (LangBot) |
 | AutoClaw 系列 | 5 | 40 |
 | 垂直领域 | 3 | 1,730 |
-| 工具仪表板 | 7 | 6,654 (MemOS) |
-| 记忆系统 | 3 | 12,844 (memU) |
+| 工具仪表板 | 7 | 13,900 (MemOS) |
+| 记忆系统 | 3 | 12,900 (memU) |
 
 ---
 
