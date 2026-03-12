@@ -726,5 +726,151 @@ OpenClaw 官方技能目录。
 
 ---
 
+## 🚀 部署教程汇总
+
+### Docker 部署
+
+| 教程 | 来源 | 推荐度 |
+|------|------|--------|
+| NanoClaw Docker 部署 | [官方 Wiki](https://github.com/qwibitai/nanoclaw) | ⭐⭐⭐⭐⭐ |
+| OpenClaw Docker 全指南 | [OpenClaw Docs](https://docs.openclaw.ai) | ⭐⭐⭐⭐⭐ |
+| Cloudflare Workers 部署 | [MoltWorker README](https://github.com/cloudflare/moltworker) | ⭐⭐⭐⭐ |
+
+### 一键部署
+
+| 项目 | 命令/链接 |
+|------|-----------|
+| NanoClaw | `docker run -d --name nanoclaw -v ~/.openclaw:/home/openclaw/.openclaw qwibitai/nanoclaw` |
+| Cloud-Claw | [GitHub](https://github.com/miantiao-me/cloud-claw) |
+
+### 平台特定教程
+
+- **macOS**: [OpenClaw macOS 安装指南](https://docs.openclaw.ai)
+- **Linux**: [Ubuntu/Debian 安装](https://docs.openclaw.ai)
+- **Windows**: [WSL2 部署方案](https://docs.openclaw.ai)
+
+---
+
+## 💬 社区与资源
+
+### 中文社区
+
+| 社区 | 链接 | 描述 |
+|------|------|------|
+| OpenClaw 中文社区 | [Discord #中文](https://discord.com/invite/clawd) | 中文用户交流 |
+| OpenClaw China | [GitHub](https://github.com/BytePioneer-AI/openclaw-china) | 国内变种维护 |
+
+### 英文社区
+
+| 社区 | 链接 | 描述 |
+|------|------|------|
+| OpenClaw Discord | [discord.gg/clawd](https://discord.com/invite/clawd) | 官方社区 |
+| OpenClaw Reddit | [reddit.com/r/openclaw](https://reddit.com/r/openclaw) | 讨论区 |
+| OpenClaw Discord | [Discord](https://discord.gg/openaiclaw) | AI Agents |
+
+### 学习资源
+
+| 资源 | 链接 | 描述 |
+|------|------|------|
+| Awesome OpenClaw | [GitHub](https://github.com/vincentkoc/awesome-openclaw) | 精选资源列表 |
+| OpenClaw 官方文档 | [docs.openclaw.ai](https://docs.openclaw.ai) | 完整文档 |
+| OpenClaw YouTube | [YouTube](https://youtube.com/@openclaw) | 视频教程 |
+
+---
+
+## ❓ 常见问题 FAQ
+
+### Q1: NanoClaw 和原版 OpenClaw 有什么区别？
+
+**答**: NanoClaw 是轻量级替代品，更轻量但功能较少；原版功能更全但资源占用更高。
+
+### Q2: 支持中文对话吗？
+
+**答**: 支持！使用 `OpenClaw Chinese Translation` 或 `OpenClaw China` 变种。
+
+### Q3: 需要付费吗？
+
+**答**: 基础使用免费，仅需支付 AI API 调用费用（如 Claude API）。
+
+### Q4: 如何选择部署平台？
+
+| 场景 | 推荐 |
+|------|------|
+| 个人尝鲜 | Docker + NanoClaw |
+| 不想管理服务器 | Cloudflare Workers |
+| 国内团队使用 | 飞书/钉钉/微信 |
+| 追求美观 UI | ClawX |
+
+### Q5: 如何保障安全？
+
+**答**: 
+- 使用 Docker 容器隔离运行
+- 使用 `Secure OpenClaw` 加强安全
+- 不要在生产环境保存敏感信息
+- 定期更新版本
+
+### Q6: 微信/飞书机器人会被封吗？
+
+**答**: 
+- 企业微信/飞书/钉钉：官方支持，风险低
+- 个人微信：存在风控风险，建议小号测试
+- QQ：机器人协议相对宽松
+
+---
+
+## 🆕 更多变种项目
+
+### 新兴变种
+
+| 项目 | Stars | 特点 |
+|------|-------|------|
+| AIRI ⭐32,660 | 虚拟偶像伴侣 | 实时语音聊天、游戏集成 |
+| ClawHub ⭐5,459 | 技能市场 | 官方认证技能目录 |
+| Clawra ⭐2,031 | AI 伴侣 | 情感陪伴 |
+| ClawWork ⭐- | 工作流 | AI 工作流自动化 |
+
+### 研究项目
+
+| 项目 | Stars | 领域 |
+|------|-------|------|
+| OpenClaw-RL ⭐1,730 | 强化学习 | Agent 训练 |
+| OpenClaw-Medical ⭐1,004 | 医疗 | 医疗技能库 |
+
+### 轻量级变种
+
+| 项目 | Stars | 特点 |
+|------|-------|------|
+| MicroClaw ⭐546 | Rust 实现 | 高性能 |
+| mini-claw ⭐- | 极简 | 最少依赖 |
+
+---
+
+## 📈 项目统计
+
+> 截至 2026-01-19
+
+| 分类 | 项目数 | 最高 Stars |
+|------|--------|------------|
+| 核心变种 | 4 | 21,782 (NanoClaw) |
+| 中国特色 | 3 | 3,031 |
+| AutoClaw 系列 | 5 | 40 |
+| 垂直领域 | 3 | 1,730 |
+| 工具仪表板 | 7 | 6,654 (MemOS) |
+| 记忆系统 | 3 | 12,844 (memU) |
+
+---
+
+## 🙏 致谢
+
+感谢所有为 OpenClaw 生态贡献的开发者！
+
+- NanoClaw - 轻量级替代
+- MoltWorker - Serverless 部署
+- OpenClaw China - 国内生态
+- ClawHub - 技能市场
+- 所有变种维护者
+
+---
+
 *🦞 Last updated: 2026-01-19 | ClawDen - OpenClaw 变种收集站*
 
