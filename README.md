@@ -502,7 +502,137 @@ AutoClaw 技能扩展。
 
 ## 🔧 其他有趣变种
 
-### 1. OpenClaw Zero Token ⭐ 1,658
+### 1. Edict ⭐ 8,169
+
+> 三省六部制 · OpenClaw 多 Agent 编排系统
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [cft0808/edict](https://github.com/cft0808/edict) |
+| Stars | 8,169 |
+
+**简介**
+🏛️ 三省六部制 · OpenClaw 多 Agent 编排系统 — 9 个专业 AI agents，配备实时仪表板、模型配置和完整审计追踪。
+
+**✅ 优点**
+- 9 个专业化 Agent 协作
+- 实时仪表板
+- 完整审计日志
+- 中国古代官制风格
+
+**🎯 适用场景**
+- 多 Agent 复杂任务
+- 企业级编排
+- 需要审计的工作流
+
+---
+
+### 2. LangBot ⭐ 15,530
+
+> 生产级多平台智能机器人开发平台
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) |
+| Stars | 15,530 |
+
+**简介**
+生产级多平台智能机器人开发平台。提供 Agent、知识库编排、插件系统。支持 Discord / Slack / LINE / Telegram / WeChat / 飞书 / 钉钉 / QQ 等。
+
+**✅ 优点**
+- 支持 10+ 平台
+- 集成 DeepSeek, Claude, Gemini 等
+- 知识库编排
+- 插件系统
+
+**🎯 适用场景**
+- 企业级机器人
+- 多平台运营
+- 需要知识库的场景
+
+---
+
+### 3. Nocturne Memory ⭐ 619
+
+> 轻量级可回滚的长期记忆服务器
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [Dataojitori/nocturne_memory](https://github.com/Dataojitori/nocturne_memory) |
+| Stars | 619 |
+
+**简介**
+轻量级、可回滚、可视化的 MCP Agents 长期记忆服务器。
+
+**✅ 优点**
+- 图结构持久记忆
+- 可回滚
+- 即插即用
+
+---
+
+### 4. Claw Empire ⭐ 613
+
+> AI Agent 办公室模拟器
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) |
+| Stars | 613 |
+
+**简介**
+从 CEO 办公桌指挥你的 AI Agent 帝国。
+
+---
+
+### 5. Overture ⭐ 596
+
+> MCP 可视化流程图
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [SixHq/Overture](https://github.com/SixHq/Overture) |
+| Stars | 596 |
+
+**简介**
+将 AI 编码 Agent 的执行计划映射为交互式流程图。
+
+---
+
+### 6. AI Maesto ⭐ 523
+
+> AI Agent 编排器
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) |
+| Stars | 523 |
+
+---
+
+### 7. OpenClaw Dashboard ⭐ 386
+
+> 安全实时监控仪表板
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) |
+| Stars | 386 |
+
+---
+
+### 8. Agents Radar ⭐ 378
+
+> AI 生态动态追踪
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) |
+| Stars | 378 |
+
+---
+
+### 9. OpenClaw Zero Token ⭐ 1,658
 
 > 无需 API Key
 
@@ -872,5 +1002,5 @@ OpenClaw 官方技能目录。
 
 ---
 
-*🦞 Last updated: 2026-01-19 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-12 | ClawDen - OpenClaw 变种收集站*
 
