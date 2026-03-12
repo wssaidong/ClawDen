@@ -72,11 +72,11 @@ OpenClaw (原 Clawdbot / Moltbot)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **awesome-openclaw-skills** | ⭐ 35,965 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
-| 🥈 | **ZeroClaw** | ⭐ 26,348 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 | 核心变种 |
-| 🥉 | **NanoClaw** | ⭐ 21,877 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 🥇 | **awesome-openclaw-skills** | ⭐ 36,058 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥈 | **ZeroClaw** | ⭐ 26,373 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 | 核心变种 |
+| 🥉 | **NanoClaw** | ⭐ 21,908 | 轻量级替代方案，容器化运行 | 核心变种 |
 | 4 | **AIRI** | ⭐ 32,826 | 虚拟偶像伴侣，实时语音聊天 | AI 伴侣 |
-| 5 | **LangBot** | ⭐ 15,533 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 5 | **LangBot** | ⭐ 15,534 | 生产级多平台智能机器人开发平台 | 中国特色 |
 | 6 | **memU** | ⭐ 12,857 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
 | 7 | **MoltWorker** | ⭐ 9,572 | Cloudflare Workers 无服务器运行 | 核心变种 |
 | 8 | **ClawHub** | ⭐ 5,529 | OpenClaw 官方技能目录 | 工具与技能 |
