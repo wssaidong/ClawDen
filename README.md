@@ -9,9 +9,11 @@
 - [项目地图](#项目地图)
 - [核心变种](#核心变种)
 - [中国特色变种](#中国特色变种)
-- [轻量级变种](#轻量级变种)
+- [自动化变种 (AutoClaw 系列)](#自动化变种-autoclaw-系列)
 - [垂直领域变种](#垂直领域变种)
 - [工具与周边](#工具与周边)
+- [记忆与存储](#记忆与存储)
+- [其他有趣变种](#其他有趣变种)
 - [变种对比表](#变种对比表)
 
 ---
@@ -24,7 +26,13 @@ OpenClaw (原 Clawdbot / Moltbot)
     ├── 🔥 核心变种
     │   ├── nanoclaw         (轻量化替代)
     │   ├── moltworker       (Cloudflare Workers)
+    │   ├── poco-claw        (美观替代)
     │   └── secure-openclaw  (安全强化)
+    │
+    ├── 🚀 AutoClaw 系列
+    │   ├── autoclaw         (超轻量容器化)
+    │   ├── autoclawd        (macOS ambient AI)
+    │   └── autoclaw-browser (浏览器自动化)
     │
     ├── 🇨🇳 中国特色
     │   ├── openclaw-china   (飞书/钉钉/QQ/微信)
@@ -40,7 +48,9 @@ OpenClaw (原 Clawdbot / Moltbot)
     │   ├── openclaw-studio  (Web 仪表板)
     │   ├── openclaw-mission-control (编排仪表板)
     │   ├── ClawX            (桌面客户端)
-    │   └── tenacitOS        (Mission Control)
+    │   ├── antfarm          (Agent 团队)
+    │   ├── lobster          (工作流引擎)
+    │   └── crabwalk         (实时监控)
     │
     └── 📦 记忆与存储
         ├── memU             (记忆系统)
@@ -403,6 +413,93 @@ AI Agent 编排仪表板，管理多 agent 协作。
 
 ---
 
+## 🚀 自动化变种 (AutoClaw 系列)
+
+### 1. AutoClaw ⭐ 40
+
+> 超轻量级自动化 Agent
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [tsingliuwin/autoclaw](https://github.com/tsingliuwin/autoclaw) |
+| Stars | 40 |
+
+**简介**
+超轻量级 AI Agent，设计运行在 Docker 容器内。与重量级 GUI 依赖的 Agent 不同，AutoClaw 为无头、大规模并发而构建。
+
+**✅ 优点**
+- 超轻量级
+- 容器化运行
+- 适合大规模并发
+- 无 GUI 依赖
+
+**❌ 缺点**
+- Stars 较低，社区较小
+- 功能可能较基础
+
+**🎯 适用场景**
+- 服务器部署
+- 大规模自动化任务
+- 资源敏感环境
+
+---
+
+### 2. AutoClaw Web ⭐ 3
+
+> Web 安装助手
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [my3rdstory/autoclaw-web](https://github.com/my3rdstory/autoclaw-web) |
+| Stars | 3 |
+
+**简介**
+在网页界面中帮助安装 OpenClaw 的工具。
+
+---
+
+### 3. AutoClawD ⭐ 2
+
+> macOS  ambient AI
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [sameeeeeeep/autoclawd](https://github.com/sameeeeeeep/autoclawd) |
+| Stars | 2 |
+
+**简介**
+macOS 上的环境 AI，无需提示词即可持续工作。持续监听对话，理解你的世界，在工作和生活中自主完成任务。
+
+---
+
+### 4. AutoClaw Browser ⭐ 0
+
+> 浏览器自动化
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [hasd52636-a11y/autoclaw-browser](https://github.com/hasd52636-a11y/autoclaw-browser) |
+| Stars | 0 |
+
+**简介**
+OpenClaw 浏览器自动化技能，支持 MCP 协议。
+
+---
+
+### 5. AutoClaw Skills ⭐ 0
+
+> 技能扩展
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [gula00/autoclaw-skills](https://github.com/gula00/autoclaw-skills) |
+| Stars | 0 |
+
+**简介**
+AutoClaw 技能扩展。
+
+---
+
 ## 🔧 其他有趣变种
 
 ### 1. OpenClaw Zero Token ⭐ 1,658
@@ -421,7 +518,100 @@ Claude / ChatGPT / Gemini / DeepSeek / Doubao / Grok / Qwen / Manus / Kimi
 
 ---
 
-### 2. MicroClaw ⭐ 546
+### 2. Poco-Claw ⭐ 1,139
+
+> 更美观的替代方案
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) |
+| Stars | 1,139 |
+
+**简介**
+更美观、更易用的 OpenClaw 替代品。拥有更漂亮的 Web UI、内置 IM 支持，以及沙箱运行时提高安全性。底层由 Claude Code 驱动。
+
+**✅ 优点**
+- Web UI 更美观
+- 内置 IM 支持
+- 沙箱运行时更安全
+
+**❌ 缺点**
+- 依赖 Claude Code
+
+**🎯 适用场景**
+- 追求美观 UI 的用户
+- 需要内置 IM 功能
+
+---
+
+### 3. Antfarm ⭐ 2,120
+
+> 一命令构建 Agent 团队
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [snarktank/antfarm](https://github.com/snarktank/antfarm) |
+| Stars | 2,120 |
+
+**简介**
+在 OpenClaw 中用一条命令构建你的 Agent 团队。
+
+**✅ 优点**
+- 快速构建多 Agent 团队
+- 简化协作配置
+
+**🎯 适用场景**
+- 多 Agent 协作任务
+- 复杂工作流
+
+---
+
+### 4. Lobster ⭐ 802
+
+> 原生工作流引擎
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [openclaw/lobster](https://github.com/openclaw/lobster) |
+| Stars | 802 |
+
+**简介**
+OpenClaw 原生工作流 Shell：类型化、本地优先的"宏引擎"，将技能/工具转换为可组合的管道和安全自动化——一步调用这些工作流。
+
+**✅ 优点**
+- 类型化工作流
+- 本地优先
+- 安全自动化
+
+**🎯 适用场景**
+- 工作流自动化
+- 复杂任务编排
+
+---
+
+### 5. Crabwalk ⭐ 859
+
+> 实时伴侣监控
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [crabwise-ai/crabwalk](https://github.com/crabwise-ai/crabwalk) |
+| Stars | 859 |
+
+**简介**
+🦀 OpenClaw Agent 的实时伴侣监控器。
+
+**✅ 优点**
+- 实时监控
+- 可视化展示
+
+**🎯 适用场景**
+- 调试 Agent
+- 实时观察 Agent 行为
+
+---
+
+### 6. MicroClaw ⭐ 546
 
 > Rust 实现
 
