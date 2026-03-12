@@ -72,20 +72,20 @@ OpenClaw (原 Clawdbot / Moltbot)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **ZeroClaw** | ⭐ 26,298 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 | 核心变种 |
-| 🥈 | **awesome-openclaw-skills** | ⭐ 35,862 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
-| 🥉 | **NanoClaw** | ⭐ 21,854 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 4 | **LangBot** | ⭐ 15,532 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 5 | **MemOS** | ⭐ 13,900 | 记忆操作系统 | 记忆系统 |
-| 6 | **memU** | ⭐ 12,900 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 7 | **MoltWorker** | ⭐ 9,573 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 8 | **ClawHub** | ⭐ 5,459 | OpenClaw 官方技能目录 | 工具与技能 |
-| 9 | **OpenClaw China** | ⭐ 2,913 | 中国插件全家桶（飞书/钉钉/QQ/微信） | 中国特色 |
-| 10 | **ClawX** | ⭐ 3,772 | 桌面客户端 | 工具与仪表板 |
+| 🥇 | **awesome-openclaw-skills** | ⭐ 35,965 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥈 | **ZeroClaw** | ⭐ 26,348 | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 | 核心变种 |
+| 🥉 | **NanoClaw** | ⭐ 21,877 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 4 | **AIRI** | ⭐ 32,826 | 虚拟偶像伴侣，实时语音聊天 | AI 伴侣 |
+| 5 | **LangBot** | ⭐ 15,533 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 6 | **memU** | ⭐ 12,857 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 7 | **MoltWorker** | ⭐ 9,572 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 8 | **ClawHub** | ⭐ 5,529 | OpenClaw 官方技能目录 | 工具与技能 |
+| 9 | **OpenClaw China** | ⭐ 2,927 | 中国插件全家桶（飞书/钉钉/QQ/微信） | 中国特色 |
+| 10 | **ClawX** | ⭐ 3,809 | 桌面客户端 | 工具与仪表板 |
 
 ### 新增热门项目介绍
 
-#### 1. ZeroClaw ⭐ 26,298
+#### 1. ZeroClaw ⭐ 26,348
 
 > 最新旗舰 - Fast, small, and fully autonomous AI assistant infrastructure
 
@@ -93,7 +93,7 @@ OpenClaw (原 Clawdbot / Moltbot)
 |------|-----|
 | GitHub | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | 语言 | Rust |
-| Stars | 26,298 |
+| Stars | 26,348 |
 
 **简介**
 最新最热的 OpenClaw 变种！用 Rust 编写，提供快速、小巧、完全自主的 AI 助手基础设施。可部署到任何平台，灵活切换任何模型。
@@ -115,14 +115,14 @@ OpenClaw (原 Clawdbot / Moltbot)
 
 ---
 
-#### 2. awesome-openclaw-skills ⭐ 35,862
+#### 2. awesome-openclaw-skills ⭐ 35,965
 
 > 技能精选集
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) |
-| Stars | 35,862 |
+| Stars | 35,965 |
 
 **简介**
 OpenClaw 官方技能精选集，从官方技能注册表中筛选分类的 5400+ 技能。
@@ -136,12 +136,41 @@ OpenClaw 官方技能精选集，从官方技能注册表中筛选分类的 5400
 - 技能选择困难
 - 需要特定领域技能
 
+---
+
+#### 3. AIRI ⭐ 32,826
+
+> 虚拟偶像伴侣 - 自托管 Grok 伴侣
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [moeru-ai/airi](https://github.com/moeru-ai/airi) |
+| Stars | 32,826 |
+
+**简介**
+自托管的 Grok 伴侣，虚拟偶像容器。支持实时语音聊天、MC 游戏、Factorio。
+
+**✅ 优点**
+- 实时语音聊天
+- 游戏集成 (MC, Factorio)
+- 虚拟偶像功能
+- 自托管
+
+**❌ 缺点**
+- 需要 Grok API
+- 游戏功能需要额外配置
+
+**🎯 适用场景**
+- 虚拟偶像/陪伴
+- 游戏集成
+- 语音交互
+
 
 ---
 
 ## 🔥 核心变种
 
-### 1. NanoClaw ⭐ 21,854
+### 1. NanoClaw ⭐ 21,877
 
 > 轻量级替代方案，容器化运行
 
@@ -149,7 +178,7 @@ OpenClaw 官方技能精选集，从官方技能注册表中筛选分类的 5400
 |------|-----|
 | GitHub | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | 语言 | TypeScript |
-| Stars | 21,782 |
+| Stars | 21,877 |
 | Forks | 4,374 |
 
 **简介**
@@ -181,7 +210,7 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 
 ---
 
-### 2. MoltWorker ⭐ 9,573
+### 2. MoltWorker ⭐ 9,572
 
 > 在 Cloudflare Workers 上运行
 
@@ -189,7 +218,7 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 |------|-----|
 | GitHub | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) |
 | 语言 | TypeScript |
-| Stars | 9,573 |
+| Stars | 9,572 |
 
 **简介**
 原名 Moltbot、Clawdbot，现可在 Cloudflare Workers 上无服务器运行。
@@ -242,7 +271,7 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 
 ## 🇨🇳 中国特色变种
 
-### 1. OpenClaw China ⭐ 2,913
+### 1. OpenClaw China ⭐ 2,927
 
 > 中国插件全家桶
 
@@ -250,7 +279,7 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 |------|-----|
 | GitHub | [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) |
 | 语言 | TypeScript |
-| Stars | 2,878 |
+| Stars | 2,927 |
 
 **支持平台**
 - 🦜 飞书
@@ -385,14 +414,14 @@ NanoClaw 是 OpenClaw 的轻量级替代品，运行在容器中以增强安全�
 
 ## 🛠️ 工具与仪表板
 
-### 1. ClawX ⭐ 3,772
+### 1. ClawX ⭐ 3,809
 
 > 桌面客户端
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) |
-| Stars | 3,693 |
+| Stars | 3,809 |
 
 **简介**
 OpenClaw 的桌面应用图形界面，不需要命令行。
@@ -449,14 +478,14 @@ AI Agent 编排仪表板，管理多 agent 协作。
 
 ---
 
-### 4. MemOS ⭐ 13,900
+### 4. MemOS ⭐ 6,713
 
 > 记忆操作系统
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) |
-| Stars | 6,654 |
+| Stars | 6,713 |
 
 **简介**
 为 LLM 和 Agent 系统提供持久记忆，支持跨任务技能复用和进化。
@@ -468,14 +497,14 @@ AI Agent 编排仪表板，管理多 agent 协作。
 
 ---
 
-### 5. memU ⭐ 12,900
+### 5. memU ⭐ 12,857
 
 > 记忆系统
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) |
-| Stars | 12,844 |
+| Stars | 12,857 |
 
 **简介**
 为 24/7 主动 agent 提供记忆系统。
@@ -486,8 +515,8 @@ AI Agent 编排仪表板，管理多 agent 协作。
 
 | 项目 | Stars | 描述 |
 |------|-------|------|
-| memU | 12,844 | 记忆系统 |
-| MemOS | 6,654 | 记忆 OS |
+| memU | 12,857 | 记忆系统 |
+| MemOS | 6,713 | 记忆 OS |
 | openclaw-supermemory | 584 | 长期记忆 |
 
 ---
@@ -606,7 +635,7 @@ AutoClaw 技能扩展。
 
 ---
 
-### 2. LangBot ⭐ 15,532
+### 2. LangBot ⭐ 15,533
 
 > 生产级多平台智能机器人开发平台
 
@@ -846,7 +875,7 @@ OpenClaw 原生工作流 Shell：类型化、本地优先的"宏引擎"，将技
 
 ---
 
-### 4. AIRI ⭐ 32,660
+### 4. AIRI ⭐ 32,826
 
 > 虚拟偶像伴侣
 
@@ -859,7 +888,7 @@ OpenClaw 原生工作流 Shell：类型化、本地优先的"宏引擎"，将技
 
 ---
 
-### 5. ClawHub ⭐ 5,459
+### 5. ClawHub ⭐ 5,529
 
 > 技能目录
 
@@ -889,11 +918,11 @@ OpenClaw 官方技能目录。
 
 | 项目 | Stars | 轻量 | 中国支持 | 桌面端 | 记忆 | 安全 |
 |------|-------|------|----------|--------|------|------|
-| **NanoClaw** | 21,782 | ✅ | ❌ | ❌ | ✅ | ✅ |
-| **MoltWorker** | 9,573 | ✅ | ❌ | ❌ | ❌ | ✅ |
-| **OpenClaw China** | 2,878 | ❌ | ✅ | ❌ | ❌ | ❌ |
-| **ClawX** | 3,693 | ❌ | ✅ | ✅ | ❌ | ❌ |
-| **MemOS** | 6,654 | ❌ | ❌ | ❌ | ✅ | ❌ |
+| **NanoClaw** | 21,877 | ✅ | ❌ | ❌ | ✅ | ✅ |
+| **MoltWorker** | 9,572 | ✅ | ❌ | ❌ | ❌ | ✅ |
+| **OpenClaw China** | 2,927 | ❌ | ✅ | ❌ | ❌ | ❌ |
+| **ClawX** | 3,809 | ❌ | ✅ | ✅ | ❌ | ❌ |
+| **MemOS** | 6,713 | ❌ | ❌ | ❌ | ✅ | ❌ |
 | **Secure OpenClaw** | 1,362 | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Zero Token** | 1,658 | ❌ | ❌ | ❌ | ❌ | ❌ |
 
@@ -1033,7 +1062,7 @@ OpenClaw 官方技能目录。
 
 | 项目 | Stars | 特点 |
 |------|-------|------|
-| AIRI ⭐32,660 | 虚拟偶像伴侣 | 实时语音聊天、游戏集成 |
+| AIRI ⭐32,826 | 虚拟偶像伴侣 | 实时语音聊天、游戏集成 |
 | ClawHub ⭐5,459 | 技能市场 | 官方认证技能目录 |
 | Clawra ⭐2,031 | AI 伴侣 | 情感陪伴 |
 | ClawWork ⭐- | 工作流 | AI 工作流自动化 |
@@ -1060,13 +1089,13 @@ OpenClaw 官方技能目录。
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
-| 热门变种 | 10 | 35,862 (awesome-openclaw-skills) |
-| 核心变种 | 4 | 26,298 (ZeroClaw) |
-| 中国特色 | 3 | 15,532 (LangBot) |
+| 热门变种 | 10 | 35,965 (awesome-openclaw-skills) |
+| 核心变种 | 4 | 26,348 (ZeroClaw) |
+| 中国特色 | 3 | 15,533 (LangBot) |
 | AutoClaw 系列 | 5 | 40 |
 | 垂直领域 | 3 | 1,730 |
-| 工具仪表板 | 7 | 13,900 (MemOS) |
-| 记忆系统 | 3 | 12,900 (memU) |
+| 工具仪表板 | 7 | 12,857 (memU) |
+| 记忆系统 | 3 | 12,857 (memU) |
 
 ---
 
