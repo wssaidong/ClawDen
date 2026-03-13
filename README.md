@@ -69,21 +69,21 @@ OpenClaw (原 Clawdbot / Moltbot)
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API (2026-03-13)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API (2026-03-14)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **awesome-openclaw-skills** | ⭐ 36,446 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
-| 🥈 | **AIRI** | ⭐ 33,057 | 虚拟偶像伴侣，实时语音聊天 | AI 伴侣 |
-| 🥉 | **nanobot (HKUDS)** | ⭐ 32,936 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 4 | **ZeroClaw** | ⭐ 26,542 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 5 | **AstrBot** | ⭐ 22,964 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 6 | **NanoClaw** | ⭐ 22,076 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 7 | **LangBot** | ⭐ 15,548 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 8 | **memU** | ⭐ 12,873 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 9 | **MoltWorker** | ⭐ 9,585 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 10 | **ClawHub** | ⭐ 5,658 | OpenClaw 官方技能目录 | 工具与技能 |
-| 11 | **ClawX** | ⭐ 4,026 | 桌面客户端 | 工具与仪表板 |
+| 🥇 | **awesome-openclaw-skills** | ⭐ 36,876 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥈 | **AIRI** | ⭐ 33,288 | 虚拟偶像伴侣，实时语音聊天 | AI 伴侣 |
+| 🥉 | **nanobot (HKUDS)** | ⭐ 33,213 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
+| 4 | **ZeroClaw** | ⭐ 26,777 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 5 | **AstrBot** | ⭐ 23,720 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 6 | **NanoClaw** | ⭐ 22,370 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 7 | **LangBot** | ⭐ 15,558 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 8 | **memU** | ⭐ 12,891 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 9 | **MoltWorker** | ⭐ 9,597 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 10 | **ClawHub** | ⭐ 5,793 | OpenClaw 官方技能目录 | 工具与技能 |
+| 11 | **ClawX** | ⭐ 4,172 | 桌面客户端 | 工具与仪表板 |
 
 ### 新增热门项目介绍
 
@@ -1167,7 +1167,7 @@ OpenClaw 官方技能目录。
 
 ## 📈 项目统计
 
-> 截至 2026-03-13
+> 截至 2026-03-14
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -1193,5 +1193,5 @@ OpenClaw 官方技能目录。
 
 ---
 
-*🦞 Last updated: 2026-03-13 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-14 | ClawDen - OpenClaw 变种收集站*
 
