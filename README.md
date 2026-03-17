@@ -28,20 +28,20 @@
 ## 🗺️ 项目地图
 
 ```
-OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
+OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
     │
     ├── 🔥 官方里程碑
-    │   └── OpenClaw 官方 (310,657 stars) - GitHub TOP 1 🥇
+    │   └── OpenClaw 官方 (318,202 stars) - GitHub TOP 1 🥇
     │
     ├── 🔥 热门变种
-    │   ├── awesome-openclaw-skills (36,906 stars)
-    │   ├── AIRI                   (33,301 stars)
-    │   ├── nanobot                (33,231 stars)
-    │   ├── ZeroClaw               (26,900 stars)
-    │   ├── LangBot                (15,560 stars)
-    │   ├── memU                   (12,900 stars)
+    │   ├── awesome-openclaw-skills (38,520 stars)
+    │   ├── nanobot (HKUDS)        (34,084 stars)
+    │   ├── ZeroClaw               (27,518 stars)
+    │   ├── AstrBot                (25,350 stars)
+    │   ├── NanoClaw               (23,631 stars)
+    │   ├── LangBot                (15,596 stars)
+    │   ├── memU                   (12,976 stars)
     │   ├── OpenClaw-RL            (2,600 stars)
-    │   ├── PUAClaw                (1,800 stars)
     │   └── Clawith                (800 stars)
     │
     ├── 🔥 核心变种
@@ -88,20 +88,19 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 310,657 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🥈 | **awesome-openclaw-skills** | ⭐ 36,906 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
-| 🥉 | **AIRI** | ⭐ 33,301 | 虚拟偶像伴侣，实时语音聊天 | AI 伴侣 |
-| 4 | **nanobot (HKUDS)** | ⭐ 33,231 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 5 | **ZeroClaw** | ⭐ 26,900 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 6 | **AstrBot** | ⭐ 23,789 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 7 | **NanoClaw** | ⭐ 22,467 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 8 | **LangBot** | ⭐ 15,560 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 9 | **memU** | ⭐ 12,900 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 10 | **MoltWorker** | ⭐ 9,600 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 🥇 | **OpenClaw 官方** | ⭐ 318,202 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🥈 | **awesome-openclaw-skills** | ⭐ 38,520 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥉 | **nanobot (HKUDS)** | ⭐ 34,084 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
+| 4 | **ZeroClaw** | ⭐ 27,518 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 5 | **AstrBot** | ⭐ 25,350 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 6 | **NanoClaw** | ⭐ 23,631 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 7 | **LangBot** | ⭐ 15,560 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 8 | **memU** | ⭐ 12,976 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 9 | **MoltWorker** | ⭐ 9,600 | Cloudflare Workers 无服务器运行 | 核心变种 |
 
 ### 重点项目详细介绍
 
-#### nanobot (HKUDS) ⭐ 33,231
+#### nanobot (HKUDS) ⭐ 34,084
 
 > Ultra-Lightweight OpenClaw - 用更少的代码实现核心功能
 
@@ -109,7 +108,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 |------|-----|
 | GitHub | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | 语言 | Python |
-| Stars | 33,231 |
+| Stars | 34,084 |
 
 **支持平台**: Telegram, Slack, Discord, WhatsApp, Feishu, QQ, Email, Matrix 等
 
@@ -126,7 +125,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 ---
 
-#### ZeroClaw ⭐ 26,900
+#### ZeroClaw ⭐ 27,518
 
 > 最新旗舰 - Fast, small, and fully autonomous AI assistant infrastructure
 
@@ -134,7 +133,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 |------|-----|
 | GitHub | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | 语言 | Rust |
-| Stars | 26,900 |
+| Stars | 27,518 |
 
 **优点**: Rust 实现性能极佳、完全自主运行、部署灵活 anywhere、模型可 swap anything
 
@@ -142,7 +141,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 ---
 
-#### NanoClaw ⭐ 22,467
+#### NanoClaw ⭐ 23,631
 
 > 轻量级替代方案，容器化运行
 
@@ -150,7 +149,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 |------|-----|
 | GitHub | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | 语言 | TypeScript |
-| Stars | 22,467 |
+| Stars | 23,631 |
 
 **支持平台**: WhatsApp, Telegram, Slack, Discord, Gmail 等
 
@@ -337,14 +336,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 ---
 
-### memU ⭐ 12,900
+### memU ⭐ 12,976
 
 > 24/7 主动 Agent 记忆系统
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) |
-| Stars | 12,900 |
+| Stars | 12,976 |
 
 ---
 
@@ -373,7 +372,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 ## 其他有趣变种
 
-### AstrBot ⭐ 23,789
+### AstrBot ⭐ 25,350
 
 > Agentic IM Chatbot 基础设施
 
@@ -381,7 +380,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 |------|-----|
 | GitHub | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) |
 | 语言 | Python |
-| Stars | 23,789 |
+| Stars | 25,350 |
 
 **支持平台**: Discord / Slack / LINE / Telegram / WeChat / 飞书 / 钉钉 / QQ 等 10+ 平台
 
@@ -391,14 +390,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 ---
 
-### LangBot ⭐ 15,560
+### LangBot ⭐ 15,596
 
 > 生产级多平台智能机器人开发平台
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [langbot-app/LangBot](https://github.com/langbot-app/LangBot) |
-| Stars | 15,560 |
+| Stars | 15,596 |
 
 ---
 
@@ -612,14 +611,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 310k+ stars 🚀
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
-| 官方里程碑 | 1 | 310,657 |
-| 热门变种 | 12 | 36,906 |
-| 核心变种 | 4 | 33,231 |
-| 中国特色 | 3 | 23,789 |
+| 官方里程碑 | 1 | 318,202 |
+| 热门变种 | 9 | 38,520 |
+| 核心变种 | 4 | 34,084 |
+| 中国特色 | 3 | 25,350 |
 | AutoClaw 系列 | 5 | 40 |
 | 垂直领域 | 3 | 2,600 |
-| 工具仪表板 | 7 | 12,900 |
-| 记忆系统 | 3 | 12,900 |
+| 工具仪表板 | 7 | 12,976 |
+| 记忆系统 | 3 | 12,976 |
 
 ---
 
