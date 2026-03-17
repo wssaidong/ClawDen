@@ -34,13 +34,13 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
     │   └── OpenClaw 官方 (318,202 stars) - GitHub TOP 1 🥇
     │
     ├── 🔥 热门变种
-    │   ├── awesome-openclaw-skills (38,520 stars)
-    │   ├── nanobot (HKUDS)        (34,084 stars)
-    │   ├── ZeroClaw               (27,518 stars)
-    │   ├── AstrBot                (25,350 stars)
-    │   ├── NanoClaw               (23,631 stars)
-    │   ├── LangBot                (15,596 stars)
-    │   ├── memU                   (12,976 stars)
+    │   ├── awesome-openclaw-skills (38,665 stars)
+    │   ├── nanobot (HKUDS)        (34,169 stars)
+    │   ├── ZeroClaw               (27,564 stars)
+    │   ├── AstrBot                (25,433 stars)
+    │   ├── NanoClaw               (23,695 stars)
+    │   ├── LangBot                (15,598 stars)
+    │   ├── memU                   (12,981 stars)
     │   ├── OpenClaw-RL            (2,600 stars)
     │   └── Clawith                (800 stars)
     │
@@ -84,23 +84,23 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API
+> 按 GitHub Stars 数量排序，数据来源 GitHub API (更新于 2026-03-17)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
 | 🥇 | **OpenClaw 官方** | ⭐ 318,202 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🥈 | **awesome-openclaw-skills** | ⭐ 38,520 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
-| 🥉 | **nanobot (HKUDS)** | ⭐ 34,084 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 4 | **ZeroClaw** | ⭐ 27,518 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 5 | **AstrBot** | ⭐ 25,350 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 6 | **NanoClaw** | ⭐ 23,631 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 7 | **LangBot** | ⭐ 15,560 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 8 | **memU** | ⭐ 12,976 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 🥈 | **awesome-openclaw-skills** | ⭐ 38,665 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥉 | **nanobot (HKUDS)** | ⭐ 34,169 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
+| 4 | **ZeroClaw** | ⭐ 27,564 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 5 | **AstrBot** | ⭐ 25,433 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 6 | **NanoClaw** | ⭐ 23,695 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 7 | **LangBot** | ⭐ 15,598 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 8 | **memU** | ⭐ 12,981 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
 | 9 | **MoltWorker** | ⭐ 9,600 | Cloudflare Workers 无服务器运行 | 核心变种 |
 
 ### 重点项目详细介绍
 
-#### nanobot (HKUDS) ⭐ 34,084
+#### nanobot (HKUDS) ⭐ 34,169
 
 > Ultra-Lightweight OpenClaw - 用更少的代码实现核心功能
 
@@ -125,7 +125,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
-#### ZeroClaw ⭐ 27,518
+#### ZeroClaw ⭐ 27,564
 
 > 最新旗舰 - Fast, small, and fully autonomous AI assistant infrastructure
 
@@ -141,7 +141,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
-#### NanoClaw ⭐ 23,631
+#### NanoClaw ⭐ 23,695
 
 > 轻量级替代方案，容器化运行
 
@@ -336,7 +336,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
-### memU ⭐ 12,976
+### memU ⭐ 12,981
 
 > 24/7 主动 Agent 记忆系统
 
@@ -364,7 +364,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 | 项目 | Stars | 描述 |
 |------|-------|------|
-| memU | 12,900 | 记忆系统 |
+| memU | 12,981 | 记忆系统 |
 | MemOS | 6,713 | 记忆 OS |
 | openclaw-supermemory | 584 | 长期记忆 |
 
@@ -372,7 +372,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ## 其他有趣变种
 
-### AstrBot ⭐ 25,350
+### AstrBot ⭐ 25,433
 
 > Agentic IM Chatbot 基础设施
 
@@ -390,7 +390,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
-### LangBot ⭐ 15,596
+### LangBot ⭐ 15,598
 
 > 生产级多平台智能机器人开发平台
 
@@ -418,7 +418,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 | 项目 | Stars | 轻量 | 中国支持 | 桌面端 | 记忆 | 安全 |
 |------|-------|------|----------|--------|------|------|
-| **NanoClaw** | 22,467 | ✅ | ❌ | ❌ | ✅ | ✅ |
+| **NanoClaw** | 23,695 | ✅ | ❌ | ❌ | ✅ | ✅ |
 | **MoltWorker** | 9,600 | ✅ | ❌ | ❌ | ❌ | ✅ |
 | **OpenClaw China** | 2,927 | ❌ | ✅ | ❌ | ❌ | ❌ |
 | **ClawX** | 4,178 | ❌ | ✅ | ✅ | ❌ | ❌ |
