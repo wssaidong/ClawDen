@@ -39,6 +39,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
     │   ├── ZeroClaw               (27,740 stars)
     │   ├── AstrBot                (25,638 stars)
     │   ├── NanoClaw               (23,912 stars)
+    │   ├── NullClaw               (6,300 stars)
     │   ├── LangBot                (15,601 stars)
     │   ├── memU                   (13,004 stars)
     │   ├── OpenCode               (11,453 stars)
@@ -98,6 +99,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | 8 | **memU** | ⭐ 13,004 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
 | 9 | **OpenCode** | ⭐ 11,453 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
 | 10 | **MoltWorker** | ⭐ 9,661 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 11 | **NullClaw** | ⭐ 6,300 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
 
 ### 重点项目详细介绍
 
@@ -223,6 +225,37 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 **优点**: 企业级安全、权限控制、审计日志
 
 **适用场景**: 企业使用、对安全有高要求的场景
+
+---
+
+### NullClaw ⭐ 6,300
+
+> 最轻量级 Zig 实现
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) |
+| 语言 | Zig |
+| Stars | 6,300 |
+
+**特点**: 
+- 二进制仅 678 KB
+- 峰值内存 ~1 MB
+- 启动时间 <2 ms
+- 完全自主运行
+- 任务管理和持久化存储
+
+**优点**: 
+- ✅ 极致轻量（资源占用最低）
+- ✅ 极快启动（<2ms）
+- ✅ Zig 语言实现，性能极佳
+- ✅ 无本地系统访问（安全）
+
+**缺点**: 
+- ❌ 较新，社区较小
+- ❌ 功能相对基础
+
+**适用场景**: 极致轻量化需求、资源极端敏感环境、安全敏感场景
 
 ---
 
@@ -442,6 +475,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 | 项目 | Stars | 轻量 | 中国支持 | 桌面端 | 记忆 | 安全 |
 |------|-------|------|----------|--------|------|------|
+| **NullClaw** | 6,300 | ✅ | ❌ | ❌ | ✅ | ✅ |
 | **NanoClaw** | 23,695 | ✅ | ❌ | ❌ | ✅ | ✅ |
 | **MoltWorker** | 9,600 | ✅ | ❌ | ❌ | ❌ | ✅ |
 | **OpenClaw China** | 2,927 | ❌ | ✅ | ❌ | ❌ | ❌ |
@@ -636,8 +670,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 318,202 |
-| 热门变种 | 9 | 38,520 |
-| 核心变种 | 4 | 34,084 |
+| 热门变种 | 10 | 38,520 |
+| 核心变种 | 5 | 34,084 |
 | 中国特色 | 3 | 25,350 |
 | AutoClaw 系列 | 5 | 40 |
 | 垂直领域 | 3 | 2,600 |
