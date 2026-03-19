@@ -99,13 +99,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | 5 | **AstrBot** | ⭐ 25,825 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
 | 6 | **NanoClaw** | ⭐ 24,123 | 轻量级替代方案，容器化运行 | 核心变种 |
 | 7 | **LangBot** | ⭐ 15,607 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 8 | **memU** | ⭐ 13,032 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 9 | **OpenCode** | ⭐ 11,462 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
-| 10 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 11 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 12 | **OpenFang** | ⭐ 14,900 | Open-source Agent Operating System | 工具与仪表板 |
-| 13 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
-| 14 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
+| 8 | **OpenViking** | ⭐ 15,989 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
+| 9 | **memU** | ⭐ 13,032 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 10 | **OpenCode** | ⭐ 11,462 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
+| 11 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 12 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 13 | **OpenFang** | ⭐ 14,900 | Open-source Agent Operating System | 工具与仪表板 |
+| 14 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+| 15 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 
 ### 重点项目详细介绍
 
@@ -462,6 +463,26 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | memU | 12,981 | 记忆系统 |
 | MemOS | 7,433 | 记忆 OS |
 | openclaw-supermemory | 584 | 长期记忆 |
+| **OpenViking** | **15,989** | **字节跳动开源上下文数据库，专为 AI Agents 设计** |
+
+### OpenViking ⭐ 15,989
+
+> 字节跳动开源 - 专为 AI Agents 设计的上下文数据库
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) |
+| 语言 | Python |
+| Stars | 15,989 |
+
+**核心功能**: 
+- 文件系统范式管理上下文（记忆、资源、技能）
+- 三层上下文加载（L0/L1/L2），按需加载，显著节省成本
+- 目录递归检索，结合目录定位与语义搜索
+- 可视化检索轨迹，可观测上下文
+- 自动会话管理，上下文自迭代
+
+**适用场景**: 大规模 AI Agent 部署、需要高效上下文管理、企业级 Agent
 
 ---
 
@@ -726,13 +747,13 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 318,202 |
-| 热门变种 | 13 | 39,377 |
+| 热门变种 | 15 | 39,377 |
 | 核心变种 | 5 | 34,084 |
 | 中国特色 | 3 | 25,350 |
 | AutoClaw 系列 | 5 | 40 |
 | 垂直领域 | 4 | 2,600 |
-| 工具仪表板 | 8 | 14,900 |
-| 记忆系统 | 3 | 13,032 |
+| 工具仪表板 | 8 | 15,989 |
+| 记忆系统 | 4 | 15,989 |
 
 ---
 
