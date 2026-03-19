@@ -88,23 +88,23 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API (更新于 2026-03-19)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API (更新于 2026-03-20)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 323,012 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🥈 | **awesome-openclaw-skills** | ⭐ 39,377 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
-| 🥉 | **nanobot (HKUDS)** | ⭐ 34,676 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 4 | **ZeroClaw** | ⭐ 27,882 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 5 | **AstrBot** | ⭐ 25,825 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 6 | **NanoClaw** | ⭐ 24,123 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 7 | **LangBot** | ⭐ 15,607 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 8 | **OpenViking** | ⭐ 15,989 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
-| 9 | **memU** | ⭐ 13,032 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 10 | **OpenCode** | ⭐ 11,462 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
+| 🥇 | **OpenClaw 官方** | ⭐ 324,874 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🥈 | **awesome-openclaw-skills** | ⭐ 39,708 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥉 | **nanobot (HKUDS)** | ⭐ 34,925 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
+| 4 | **ZeroClaw** | ⭐ 28,010 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 5 | **AstrBot** | ⭐ 26,001 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 6 | **NanoClaw** | ⭐ 24,310 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 7 | **OpenViking** | ⭐ 16,165 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
+| 8 | **LangBot** | ⭐ 15,618 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 9 | **memU** | ⭐ 13,055 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 10 | **OpenCode** | ⭐ 11,478 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
 | 11 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 12 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 13 | **OpenFang** | ⭐ 14,900 | Open-source Agent Operating System | 工具与仪表板 |
+| 12 | **OpenFang** | ⭐ 14,979 | Open-source Agent Operating System | 工具与仪表板 |
+| 13 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
 | 14 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
 | 15 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 
@@ -118,7 +118,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 |------|-----|
 | GitHub | [opencode-ai/opencode](https://github.com/opencode-ai/opencode) |
 | 语言 | Go |
-| Stars | 11,453 |
+| Stars | 11,478 |
 
 **核心功能**: 终端 AI 编码助手、多 LLM 支持、原生 Go 性能
 
@@ -141,7 +141,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 |------|-----|
 | GitHub | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | 语言 | Python |
-| Stars | 34,349 |
+| Stars | 34,925 |
 
 **支持平台**: Telegram, Slack, Discord, WhatsApp, Feishu, QQ, Email, Matrix 等
 
@@ -166,7 +166,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 |------|-----|
 | GitHub | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | 语言 | Rust |
-| Stars | 27,740 |
+| Stars | 28,010 |
 
 **优点**: Rust 实现性能极佳、完全自主运行、部署灵活 anywhere、模型可 swap anything
 
@@ -182,7 +182,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 |------|-----|
 | GitHub | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
 | 语言 | TypeScript |
-| Stars | 23,912 |
+| Stars | 24,310 |
 
 **支持平台**: WhatsApp, Telegram, Slack, Discord, Gmail 等
 
@@ -742,7 +742,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-03-19
+> 截至 2026-03-20
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -769,4 +769,4 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-19 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-20 | ClawDen - OpenClaw 变种收集站*
