@@ -39,11 +39,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
     │   ├── ZeroClaw               (27,882 stars)
     │   ├── AstrBot                (25,825 stars)
     │   ├── NanoClaw               (24,123 stars)
-    │   ├── NullClaw               (6,546 stars)
+    │   ├── OpenFang               (14,900 stars)
     │   ├── LangBot                (15,607 stars)
     │   ├── memU                   (13,032 stars)
     │   ├── OpenCode               (11,462 stars)
     │   ├── MoltWorker             (9,673 stars)
+    │   ├── NullClaw               (6,546 stars)
+    │   ├── PUAClaw                (2,000 stars)
+    │   └── Aurogen                (700 stars)
     │
     ├── 🔥 核心变种
     │   ├── nanobot (HKUDS)     (超轻量级，33k+ stars)
@@ -100,6 +103,9 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | 9 | **OpenCode** | ⭐ 11,462 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
 | 10 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
 | 11 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 12 | **OpenFang** | ⭐ 14,900 | Open-source Agent Operating System | 工具与仪表板 |
+| 13 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+| 14 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 
 ### 重点项目详细介绍
 
@@ -376,6 +382,22 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
+### Aurogen ⭐ 700
+
+> The Multi-Agent Evolution of OpenClaw
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) |
+| 语言 | TypeScript |
+| Stars | 700 |
+
+**特点**: 多 Agent 协作框架、扩展 OpenClaw 能力、多智能体系统
+
+**适用场景**: 多 Agent 协作场景、复杂任务分解、AI 研究
+
+---
+
 ## 🛠️ 工具与仪表板
 
 ### ClawX ⭐ 4,178
@@ -390,6 +412,22 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 **优点**: 图形界面友好、跨平台 (Windows/macOS)、中国区有独立网站
 
 **适用场景**: 不习惯命令行的用户、桌面办公场景
+
+---
+
+### OpenFang ⭐ 14,900
+
+> Open-source Agent Operating System
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) |
+| 语言 | Rust |
+| Stars | 14,900 |
+
+**优点**: Rust 实现、完全自主运行、模块化设计、生产级稳定性
+
+**适用场景**: 企业级 Agent 部署、追求稳定性的生产环境
 
 ---
 
@@ -471,6 +509,22 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 
 ---
 
+### PUAClaw ⭐ 2,000
+
+> Claw 们终将接管世界
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) |
+| 语言 | HTML |
+| Stars | 2,000 |
+
+**特点**: 独特的研究项目、探索 AI Agent 的可能性
+
+**适用场景**: AI 研究、实验性项目
+
+---
+
 ## 📊 变种对比表
 
 | 项目 | Stars | 轻量 | 中国支持 | 桌面端 | 记忆 | 安全 |
@@ -482,6 +536,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | **ClawX** | 4,178 | ❌ | ✅ | ✅ | ❌ | ❌ |
 | **MemOS** | 7,433 | ❌ | ❌ | ❌ | ✅ | ❌ |
 | **Secure OpenClaw** | 1,362 | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **OpenFang** | 14,900 | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Aurogen** | 700 | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 ---
 
@@ -670,13 +726,13 @@ OpenClaw (原 Clawdbot / Moltbot) - 318k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 318,202 |
-| 热门变种 | 10 | 38,520 |
+| 热门变种 | 13 | 39,377 |
 | 核心变种 | 5 | 34,084 |
 | 中国特色 | 3 | 25,350 |
 | AutoClaw 系列 | 5 | 40 |
-| 垂直领域 | 3 | 2,600 |
-| 工具仪表板 | 7 | 12,976 |
-| 记忆系统 | 3 | 12,976 |
+| 垂直领域 | 4 | 2,600 |
+| 工具仪表板 | 8 | 14,900 |
+| 记忆系统 | 3 | 13,032 |
 
 ---
 
