@@ -35,11 +35,13 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
     │
     ├── 🔥 热门变种
     │   ├── awesome-openclaw-skills (39,809 stars)
+    │   ├── everything-claude-code (89,623 stars)
     │   ├── nanobot (HKUDS)        (34,982 stars)
+    │   ├── learn-claude-code      (34,488 stars)
     │   ├── ZeroClaw               (28,062 stars)
     │   ├── AstrBot                (26,044 stars)
     │   ├── NanoClaw               (24,392 stars)
-    │   ├── OpenViking             (16,485 stars)
+    │   ├── OpenViking             (16,763 stars)
     │   ├── LangBot                (15,619 stars)
     │   ├── OpenFang               (15,014 stars)
     │   ├── memU                   (13,055 stars)
@@ -89,25 +91,26 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API (更新于 2026-03-20)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-20)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
 | 🥇 | **OpenClaw 官方** | ⭐ 325,597 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🥈 | **awesome-openclaw-skills** | ⭐ 39,809 | OpenClaw 技能精选集，5400+ 技能 | 工具与技能 |
+| 🥈 | **everything-claude-code** | ⭐ 89,623 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
 | 🥉 | **nanobot (HKUDS)** | ⭐ 34,982 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 4 | **ZeroClaw** | ⭐ 28,062 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 5 | **AstrBot** | ⭐ 26,044 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 6 | **NanoClaw** | ⭐ 24,392 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 7 | **OpenViking** | ⭐ 16,485 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
-| 8 | **LangBot** | ⭐ 15,619 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 9 | **memU** | ⭐ 13,055 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 10 | **OpenCode** | ⭐ 11,478 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
-| 11 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 12 | **OpenFang** | ⭐ 15,014 | Open-source Agent Operating System | 工具与仪表板 |
-| 13 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 14 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
-| 15 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
+| 4 | **learn-claude-code** | ⭐ 34,488 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
+| 5 | **ZeroClaw** | ⭐ 28,062 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 6 | **AstrBot** | ⭐ 26,044 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 7 | **NanoClaw** | ⭐ 24,392 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 8 | **OpenViking** | ⭐ 16,763 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
+| 9 | **OpenFang** | ⭐ 15,014 | Open-source Agent Operating System | 工具与仪表板 |
+| 10 | **LangBot** | ⭐ 15,619 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 11 | **memU** | ⭐ 13,055 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 12 | **OpenCode** | ⭐ 11,478 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
+| 13 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 14 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 15 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+| 16 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 
 ### 重点项目详细介绍
 
@@ -197,6 +200,61 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 | ✅ 直接使用 Anthropic Agents SDK | |
 
 **适用场景**: 个人使用、资源有限的服务器、快速部署尝鲜
+
+---
+
+#### learn-claude-code ⭐ 34,488
+
+> Nano Claude Code-like Agent Harness — Bash is all you need
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| 语言 | TypeScript |
+| Stars | 34,488 |
+
+**核心理念**: "An agent is a model" — 从头构建的轻量级 Agent Harness，强调神经网络才是真正的 Agent
+
+**核心功能**: 极简设计、Bash 驱动、轻量级 Agent 训练框架
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ Nano 级别极简实现 | ❌ 相对较新 |
+| ✅ 明确的技术定位 | ❌ 社区规模待发展 |
+| ✅ 活跃更新 | |
+| ✅ 多语言文档（中/英/日） | |
+
+**适用场景**: 追求极简架构的开发者、学习 Agent 底层原理、教育场景
+
+---
+
+#### everything-claude-code ⭐ 89,623
+
+> Agent Harness 性能优化系统 — Skills / Instincts / Memory / Security 全方位增强
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) |
+| 语言 | JavaScript/TypeScript |
+| Stars | 89,623 |
+
+**支持框架**: Claude Code, Codex, **Opencode**, Cursor 等主流 AI Coding Agents
+
+**核心功能**:
+- Skills（技能系统）：即插即用的 Agent 能力扩展
+- Instincts（本能系统）：内置行为模式优化
+- Memory（记忆系统）：长期上下文与知识管理
+- Security（安全系统）：企业级权限与审计
+- Research-First Development（研究驱动开发）
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ 覆盖最主流的 Agent Harness | ❌ 主攻 Claude Code 生态 |
+| ✅ Stars 增长极快（89k+） | ❌ 对 OpenClaw 原生支持有限 |
+| ✅ 多语言文档（中/英/日/韩） | |
+| ✅ 企业级安全特性 | |
+
+**适用场景**: 追求极致 Agent 性能的开发者、企业级 Agent 部署、多框架协同
 
 ---
 
