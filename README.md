@@ -31,23 +31,23 @@
 OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
     │
     ├── 🔥 官方里程碑
-    │   └── OpenClaw 官方 (325,597 stars) - GitHub TOP 1 🥇
+    │   └── OpenClaw 官方 (325,649 stars) - GitHub TOP 1 🥇
     │
     ├── 🔥 热门变种
     │   ├── awesome-openclaw-skills (39,809 stars)
-    │   ├── everything-claude-code (89,623 stars)
-    │   ├── nanobot (HKUDS)        (34,982 stars)
-    │   ├── learn-claude-code      (34,488 stars)
-    │   ├── ZeroClaw               (28,062 stars)
-    │   ├── AstrBot                (26,044 stars)
-    │   ├── NanoClaw               (24,392 stars)
-    │   ├── OpenViking             (16,763 stars)
-    │   ├── LangBot                (15,619 stars)
-    │   ├── OpenFang               (15,014 stars)
-    │   ├── memU                   (13,055 stars)
-    │   ├── OpenCode               (11,478 stars)
-    │   ├── MoltWorker             (9,673 stars)
-    │   ├── NullClaw               (6,546 stars)
+    │   ├── everything-claude-code (89,710 stars)
+    │   ├── nanobot (HKUDS)        (35,021 stars)
+    │   ├── learn-claude-code      (34,506 stars)
+    │   ├── ZeroClaw               (28,105 stars)
+    │   ├── AstrBot                (26,049 stars)
+    │   ├── NanoClaw               (24,401 stars)
+    │   ├── OpenViking             (16,798 stars)
+    │   ├── LangBot                (15,626 stars)
+    │   ├── OpenFang               (15,021 stars)
+    │   ├── memU                   (13,082 stars)
+    │   ├── OpenCode               (11,489 stars)
+    │   ├── MoltWorker             (9,676 stars)
+    │   ├── NullClaw               (6,549 stars)
     │   ├── PUAClaw                (2,000 stars)
     │   └── Aurogen                (700 stars)
     │
@@ -91,24 +91,24 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-20)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-21)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 325,597 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🥈 | **everything-claude-code** | ⭐ 89,623 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
-| 🥉 | **nanobot (HKUDS)** | ⭐ 34,982 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 4 | **learn-claude-code** | ⭐ 34,488 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
-| 5 | **ZeroClaw** | ⭐ 28,062 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 6 | **AstrBot** | ⭐ 26,044 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 7 | **NanoClaw** | ⭐ 24,392 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 8 | **OpenViking** | ⭐ 16,763 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
-| 9 | **OpenFang** | ⭐ 15,014 | Open-source Agent Operating System | 工具与仪表板 |
-| 10 | **LangBot** | ⭐ 15,619 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 11 | **memU** | ⭐ 13,055 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 12 | **OpenCode** | ⭐ 11,478 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
-| 13 | **MoltWorker** | ⭐ 9,673 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 14 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 🥇 | **OpenClaw 官方** | ⭐ 325,649 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🥈 | **everything-claude-code** | ⭐ 89,710 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
+| 🥉 | **nanobot (HKUDS)** | ⭐ 35,021 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
+| 4 | **learn-claude-code** | ⭐ 34,506 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
+| 5 | **ZeroClaw** | ⭐ 28,105 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 6 | **AstrBot** | ⭐ 26,049 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 7 | **NanoClaw** | ⭐ 24,401 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 8 | **OpenViking** | ⭐ 16,798 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
+| 9 | **OpenFang** | ⭐ 15,021 | Open-source Agent Operating System | 工具与仪表板 |
+| 10 | **LangBot** | ⭐ 15,626 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 11 | **memU** | ⭐ 13,082 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 12 | **OpenCode** | ⭐ 11,489 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
+| 13 | **MoltWorker** | ⭐ 9,676 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 14 | **NullClaw** | ⭐ 6,549 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
 | 15 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
 | 16 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 
@@ -302,7 +302,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 |------|-----|
 | GitHub | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) |
 | 语言 | Zig |
-| Stars | 6,300 |
+| Stars | 6,549 |
 
 **特点**: 
 - 二进制仅 678 KB
@@ -403,14 +403,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 
 ## 🎯 垂直领域变种
 
-### OpenClaw-RL ⭐ 2,600
+### OpenClaw-RL ⭐ 3,800
 
 > 强化学习训练 agent
 
 | 属性 | 值 |
 |------|-----|
 | GitHub | [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) |
-| Stars | 2,600 |
+| Stars | 3,800 |
 
 **适用场景**: AI 研究、自定义 agent 训练
 
@@ -475,7 +475,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 
 ---
 
-### OpenFang ⭐ 15,014
+### OpenFang ⭐ 15,021
 
 > Open-source Agent Operating System
 
@@ -483,7 +483,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 |------|-----|
 | GitHub | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) |
 | 语言 | Rust |
-| Stars | 15,014 |
+| Stars | 15,021 |
 
 **优点**: Rust 实现、完全自主运行、模块化设计、生产级稳定性
 
@@ -522,9 +522,9 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 | memU | 12,981 | 记忆系统 |
 | MemOS | 7,433 | 记忆 OS |
 | openclaw-supermemory | 584 | 长期记忆 |
-| **OpenViking** | **16,485** | **字节跳动开源上下文数据库，专为 AI Agents 设计** |
+| **OpenViking** | **16,798** | **字节跳动开源上下文数据库，专为 AI Agents 设计** |
 
-### OpenViking ⭐ 16,485
+### OpenViking ⭐ 16,798
 
 > 字节跳动开源 - 专为 AI Agents 设计的上下文数据库
 
@@ -801,16 +801,16 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-03-20
+> 截至 2026-03-21
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
-| 官方里程碑 | 1 | 325,597 |
+| 官方里程碑 | 1 | 325,649 |
 | 热门变种 | 15 | 39,809 |
 | 核心变种 | 5 | 34,982 |
 | 中国特色 | 3 | 26,044 |
 | AutoClaw 系列 | 5 | 40 |
-| 垂直领域 | 4 | 2,600 |
+| 垂直领域 | 4 | 3,800 |
 | 工具仪表板 | 8 | 16,485 |
 | 记忆系统 | 4 | 16,485 |
 
@@ -828,4 +828,4 @@ OpenClaw (原 Clawdbot / Moltbot) - 325k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-20 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-21 | ClawDen - OpenClaw 变种收集站*
