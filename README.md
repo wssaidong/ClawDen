@@ -31,27 +31,28 @@
 OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
     │
     ├── 🔥 官方里程碑
-    │   └── OpenClaw 官方 (328,322 stars) - GitHub TOP 1 🥇
+    │   └── OpenClaw 官方 (328,925 stars) - GitHub TOP 1 🥇
     │
     ├── 🔥 热门变种
-    │   ├── awesome-openclaw-skills (40,407 stars)
-    │   ├── everything-claude-code (93,308 stars)
+    │   ├── LangChain              (130,521 stars) 🆕 Agent 工程平台
+    │   ├── awesome-openclaw-skills (40,570 stars)
+    │   ├── everything-claude-code (94,814 stars)
     │   ├── superpowers            (102,000 stars)
-    │   ├── MetaGPT                (65,716 stars)
-    │   ├── autogen                (55,969 stars)
-    │   ├── crewAI                 (46,760 stars)
-    │   ├── nanobot (HKUDS)        (35,285 stars)
-    │   ├── learn-claude-code      (35,180 stars)
-    │   ├── TradingAgents          (35,306 stars)
-    │   ├── ZeroClaw               (28,259 stars)
-    │   ├── AstrBot                (26,318 stars)
-    │   ├── NanoClaw               (24,392 stars)
-    │   ├── Mastra                 (22,196 stars)
-    │   ├── openai-agents-python   (20,173 stars)
-    │   ├── OpenViking             (16,798 stars)
+    │   ├── MetaGPT                (65,749 stars)
+    │   ├── autogen                (55,984 stars)
+    │   ├── crewAI                 (46,801 stars)
+    │   ├── nanobot (HKUDS)        (35,356 stars)
+    │   ├── learn-claude-code      (35,408 stars)
+    │   ├── TradingAgents          (35,671 stars)
+    │   ├── ZeroClaw               (28,312 stars)
+    │   ├── AstrBot                (26,384 stars)
+    │   ├── NanoClaw               (24,783 stars)
+    │   ├── Mastra                 (22,207 stars)
+    │   ├── openai-agents-python   (20,183 stars)
+    │   ├── OpenViking             (17,576 stars)
     │   ├── LangBot                (15,632 stars)
-    │   ├── OpenFang               (15,167 stars)
-    │   ├── memU                   (13,095 stars)
+    │   ├── OpenFang               (15,192 stars)
+    │   ├── memU                   (13,108 stars)
     │   ├── OpenCode               (11,515 stars)
     │   ├── MoltWorker             (9,676 stars)
     │   ├── NullClaw               (6,546 stars)
@@ -103,29 +104,30 @@ OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 328,322 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🥇 | **OpenClaw 官方** | ⭐ 328,925 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
 | 🥈 | **superpowers** | ⭐ 102,000 | Agentic Skills 框架与软件开发方法论 | Agent 框架 |
-| 🥉 | **everything-claude-code** | ⭐ 93,308 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
-| 4 | **MetaGPT** | ⭐ 65,716 | 多 Agent 框架：第一个 AI 软件公司，向自然语言编程迈进 | Agent 框架 |
-| 5 | **autogen** | ⭐ 55,969 | 微软开源编程框架 for Agentic AI | Agent 框架 |
-| 6 | **crewAI** | ⭐ 46,760 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 | Agent 框架 |
-| 7 | **nanobot (HKUDS)** | ⭐ 35,285 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 8 | **learn-claude-code** | ⭐ 35,180 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
-| 9 | **TradingAgents** | ⭐ 35,306 | 多 Agent LLM 金融交易框架 | 垂直领域 |
-| 10 | **ZeroClaw** | ⭐ 28,259 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 11 | **AstrBot** | ⭐ 26,318 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
-| 12 | **NanoClaw** | ⭐ 24,392 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 13 | **OpenViking** | ⭐ 16,798 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
-| 14 | **LangBot** | ⭐ 15,632 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 15 | **OpenFang** | ⭐ 15,167 | Open-source Agent Operating System | 工具与仪表板 |
-| 16 | **memU** | ⭐ 13,095 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 17 | **OpenCode** | ⭐ 11,515 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
-| 18 | **MoltWorker** | ⭐ 9,676 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 19 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 20 | **Mastra** | ⭐ 22,196 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
-| 21 | **openai-agents-python** | ⭐ 20,173 | OpenAI 官方 Python Agent SDK，轻量级多 Agent 工作流 | 核心变种 |
-| 22 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
-| 23 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
+| 🥉 | **LangChain** | ⭐ 130,521 | The Agent Engineering Platform，130k+ Stars | Agent 框架 |
+| 4 | **everything-claude-code** | ⭐ 94,814 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
+| 5 | **MetaGPT** | ⭐ 65,749 | 多 Agent 框架：第一个 AI 软件公司，向自然语言编程迈进 | Agent 框架 |
+| 6 | **autogen** | ⭐ 55,984 | 微软开源编程框架 for Agentic AI | Agent 框架 |
+| 7 | **crewAI** | ⭐ 46,801 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 | Agent 框架 |
+| 8 | **nanobot (HKUDS)** | ⭐ 35,356 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
+| 9 | **learn-claude-code** | ⭐ 35,408 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
+| 10 | **TradingAgents** | ⭐ 35,671 | 多 Agent LLM 金融交易框架 | 垂直领域 |
+| 11 | **ZeroClaw** | ⭐ 28,312 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 12 | **AstrBot** | ⭐ 26,384 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 13 | **NanoClaw** | ⭐ 24,783 | 轻量级替代方案，容器化运行 | 核心变种 |
+| 14 | **Mastra** | ⭐ 22,207 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
+| 15 | **openai-agents-python** | ⭐ 20,183 | OpenAI 官方 Python Agent SDK，轻量级多 Agent 工作流 | 核心变种 |
+| 16 | **OpenViking** | ⭐ 17,576 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
+| 17 | **LangBot** | ⭐ 15,632 | 生产级多平台智能机器人开发平台 | 中国特色 |
+| 18 | **OpenFang** | ⭐ 15,192 | Open-source Agent Operating System | 工具与仪表板 |
+| 19 | **memU** | ⭐ 13,108 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+| 20 | **OpenCode** | ⭐ 11,515 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
+| 21 | **MoltWorker** | ⭐ 9,676 | Cloudflare Workers 无服务器运行 | 核心变种 |
+| 22 | **NullClaw** | ⭐ 6,546 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 23 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+| 24 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 
 ### 重点项目详细介绍
 
@@ -160,7 +162,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
 |------|-----|
 | GitHub | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | 语言 | Python |
-| Stars | 34,982 |
+| Stars | 35,356 |
 
 **支持平台**: Telegram, Slack, Discord, WhatsApp, Feishu, QQ, Email, Matrix 等
 
@@ -185,7 +187,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
 |------|-----|
 | GitHub | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) |
 | 语言 | Rust |
-| Stars | 28,062 |
+| Stars | 28,312 |
 
 **优点**: Rust 实现性能极佳、完全自主运行、部署灵活 anywhere、模型可 swap anything
 
@@ -281,7 +283,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
 |------|-----|
 | GitHub | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) |
 | 语言 | TypeScript |
-| Stars | 22,200 |
+| Stars | 22,207 |
 
 **支持平台**: 支持多种 LLM（OpenAI、Anthropic、 Google 等）、多渠道部署
 
@@ -311,7 +313,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
 |------|-----|
 | GitHub | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) |
 | 语言 | Python |
-| Stars | 20,200 |
+| Stars | 20,183 |
 
 **核心功能**:
 - OpenAI 官方维护：与 GPT 系列深度集成
@@ -878,14 +880,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 328k+ stars 🚀
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
-| 官方里程碑 | 1 | 328,322 |
-| 热门变种 | 23 | 102,000 |
-| 核心变种 | 7 | 35,285 |
-| 中国特色 | 3 | 26,318 |
+| 官方里程碑 | 1 | 328,925 |
+| 热门变种 | 24 | 130,521 |
+| 核心变种 | 7 | 35,356 |
+| 中国特色 | 3 | 26,384 |
 | AutoClaw 系列 | 5 | 40 |
-| 垂直领域 | 5 | 35,306 |
-| 工具仪表板 | 8 | 16,798 |
-| 记忆系统 | 4 | 16,798 |
+| 垂直领域 | 5 | 35,671 |
+| 工具仪表板 | 8 | 17,576 |
+| 记忆系统 | 4 | 17,576 |
 
 ---
 
