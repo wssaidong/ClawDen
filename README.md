@@ -48,6 +48,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
     │   ├── deer-flow             (38,294 stars) 🆕
     │   ├── SuperAGI              (17,295 stars) 🆕
     │   ├── OpenClaw-RL            (5,200+ stars) 🆕 HuggingFace 日榜 #1
+    │   ├── Claw-R1                (🆕 OpenClaw + Agent-R1，强化学习推理) 
     │   ├── ZeroClaw               (28,600 stars)
     │   ├── AstrBot                (26,722 stars)
     │   ├── NanoClaw               (25,028 stars)
@@ -109,7 +110,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-24)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-25)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -146,6 +147,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 | 29 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
 | 30 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 | 31 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
+| 32 | **Claw-R1** | 🆕 新发现 | 🆕 OpenClaw + Agent-R1，强化学习推理框架，MiddleWare 架构设计 | 垂直领域 |
 
 ### 重点项目详细介绍
 
@@ -694,6 +696,36 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ---
 
+### Claw-R1 🆕
+
+> OpenClaw + Agent-R1 — 强化学习推理框架
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [AgentR1/Claw-R1](https://github.com/AgentR1/Claw-R1) |
+| Stars | 🆕 新发现 |
+| 定位 | OpenClaw + Agent-R1 融合，强化学习推理 |
+
+**核心理念**: 构建于 Agent-R1 基础之上，融合 OpenClaw 的个人 AI 助手范式，采用 MiddleWare 架构设计。
+
+**致谢**: 感谢 MiniMax Forge 在 MiddleWare 设计上的架构洞察，感谢 rLLM 在语言 Agent RL 框架设计上的开创性工作，以及 OpenClaw 在个人 AI 助手方面的卓越工作——启发了我们的愿景。
+
+**核心功能**:
+- OpenClaw + Agent-R1 融合框架
+- MiddleWare 架构设计
+- 强化学习推理能力
+- 继承 OpenClaw 个人 AI 助手范式
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ 融合两大框架优势 | ❌ 相对较新 |
+| ✅ MiddleWare 架构清晰 | ❌ 社区生态待发展 |
+| ✅ 强化学习推理能力 | ❌ Star 数量待确认 |
+
+**适用场景**: 强化学习推理研究、AI Agent 架构探索、融合 OpenClaw 与 RL 技术的实验
+
+---
+
 ### Aurogen ⭐ 700
 
 > The Multi-Agent Evolution of OpenClaw
@@ -1087,11 +1119,11 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 334,000 |
-| 热门变种 | 33 | 131,000 |
+| 热门变种 | 34 | 131,000 |
 | 核心变种 | 8 | 35,683 |
 | 中国特色 | 3 | 26,722 |
 | AutoClaw 系列 | 5 | 40 |
-| 垂直领域 | 6 | 38,775 |
+| 垂直领域 | 7 | 38,775 |
 | 工具仪表板 | 8 | 41,223 |
 | 记忆系统 | 4 | 18,203 |
 
@@ -1109,8 +1141,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-24 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-25 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-03-24 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-03-25 by ClawDen 自动更新 Cron
