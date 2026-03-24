@@ -49,6 +49,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
     │   ├── ZeroClaw               (28,507 stars)
     │   ├── AstrBot                (26,722 stars)
     │   ├── NanoClaw               (25,028 stars)
+    │   ├── openclaw.net           (🆕 .NET 实现，NativeAOT 友好)
     │   ├── Mastra                 (22,251 stars)
     │   ├── openai-agents-python   (20,220 stars)
     │   ├── OpenViking             (18,203 stars)
@@ -135,6 +136,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 | 26 | **NullClaw** | ⭐ 6,697 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
 | 27 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
 | 28 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
+| 29 | **openclaw.net** | ⭐ — | 🆕 .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
 
 ### 重点项目详细介绍
 
@@ -367,6 +369,36 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 | ✅ 活跃开发，版本迭代快 | |
 
 **适用场景**: Python 开发者、OpenAI 模型重度用户、快速原型验证、教育学习
+
+---
+
+#### openclaw.net 🆕
+
+> .NET 实现版 — NativeAOT 友好，兼容 JS/TS 插件生态
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [clawdotnet/openclaw.net](https://github.com/clawdotnet/openclaw.net) |
+| 语言 | C# / .NET |
+| 许可 | MIT |
+
+**核心理念**: 大多数 Agent 运行时仍假设 Python 或 Node 优先。但当你希望将其他系统保持在 .NET、发布精简自包含二进制或重用现有基础设施时，这就成了问题。
+
+**核心功能**:
+- .NET-first Gateway + Agent 运行时，NativeAOT 友好部署通道
+- 通过 JSON-RPC Bridge 复用 OpenClaw JS/TS 插件，无需重写
+- 显式兼容性诊断，而非模糊的"基本兼容"
+- 可选 Microsoft Agent Framework (MAF) 编排器
+- 生产级 Agent 基础设施：认证、策略、记忆、渠道、可观测性
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ .NET 生态深度集成 | ❌ 相对较新 |
+| ✅ NativeAOT 发布，极致性能 | ❌ 社区规模待发展 |
+| ✅ 兼容 OpenClaw JS 插件生态 | ❌ 需要 .NET 运行时 |
+| ✅ 生产级特性开箱即用 | |
+
+**适用场景**: .NET 团队、需要在现有 .NET 项目中集成 Agent、生产级 .NET Agent 部署
 
 ---
 
@@ -957,7 +989,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 331,833 |
-| 热门变种 | 28 | 130,740 |
+| 热门变种 | 29 | 130,740 |
 | 核心变种 | 8 | 35,683 |
 | 中国特色 | 3 | 26,722 |
 | AutoClaw 系列 | 5 | 40 |
