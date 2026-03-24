@@ -28,7 +28,7 @@
 ## 🗺️ 项目地图
 
 ```
-OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
+OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
     │
     ├── 🔥 官方里程碑
     │   └── OpenClaw 官方 (331,833 stars) - GitHub TOP 1 🥇
@@ -45,17 +45,19 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
     │   ├── learn-claude-code      (36,897 stars)
     │   ├── TradingAgents          (38,775 stars)
     │   ├── deer-flow             (38,294 stars) 🆕
+    │   ├── SuperAGI              (17,295 stars) 🆕
     │   ├── OpenClaw-RL            (5,200+ stars) 🆕 HuggingFace 日榜 #1
-    │   ├── ZeroClaw               (28,507 stars)
+    │   ├── ZeroClaw               (28,574 stars)
     │   ├── AstrBot                (26,722 stars)
     │   ├── NanoClaw               (25,028 stars)
-    │   ├── openclaw.net           (🆕 .NET 实现，NativeAOT 友好)
+    │   ├── openclaw.net           (.NET 实现，NativeAOT 友好，156 stars)
     │   ├── Mastra                 (22,251 stars)
     │   ├── openai-agents-python   (20,220 stars)
     │   ├── OpenViking             (18,203 stars)
     │   ├── LangBot                (15,644 stars)
     │   ├── OpenFang               (15,329 stars)
     │   ├── memU                   (13,140 stars)
+    │   ├── microsoft/agent-framework (8,159 stars) 🆕
     │   ├── OpenCode               (11,549 stars)
     │   ├── MoltWorker             (9,716 stars)
     │   ├── openclaw-multiagent-framework (1,800+ stars) 🆕
@@ -108,7 +110,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 331,833 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🥇 | **OpenClaw 官方** | ⭐ 333,030 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
 | 🥈 | **LangChain** | ⭐ 130,740 | The Agent Engineering Platform，130k+ Stars | Agent 框架 |
 | 🥉 | **superpowers** | ⭐ 107,271 | Agentic Skills 框架与软件开发方法论 | Agent 框架 |
 | 4 | **everything-claude-code** | ⭐ 101,046 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
@@ -120,8 +122,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 | 10 | **deer-flow** | ⭐ 38,294 | 字节跳动开源 SuperAgent harness，支持研究/编码/创作 | 核心变种 |
 | 11 | **learn-claude-code** | ⭐ 36,897 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
 | 12 | **nanobot (HKUDS)** | ⭐ 35,683 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 13 | **OpenClaw-RL** | ⭐ 5,200+ | 🆕 RL 强化学习训练框架，HuggingFace 日榜 #1！ | 垂直领域 |
-| 14 | **ZeroClaw** | ⭐ 28,507 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 13 | **SuperAGI** | ⭐ 17,295 | 🆕 dev-first 开源自主 AI agent 框架，让开发者快速构建、管理和运行有用的自主 Agent | 核心变种 |
+| 14 | **ZeroClaw** | ⭐ 28,574 | Fast, small, and fully autonomous AI assistant | 核心变种 |
 | 15 | **AstrBot** | ⭐ 26,722 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
 | 16 | **NanoClaw** | ⭐ 25,028 | 轻量级替代方案，容器化运行 | 核心变种 |
 | 17 | **Mastra** | ⭐ 22,251 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
@@ -132,11 +134,12 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 | 22 | **memU** | ⭐ 13,140 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
 | 23 | **OpenCode** | ⭐ 11,549 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
 | 24 | **MoltWorker** | ⭐ 9,716 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 25 | **openclaw-multiagent-framework** | ⭐ 1,800+ | 🆕 多 Agent 协作协议与架构，零配置插件系统 | 核心变种 |
-| 26 | **NullClaw** | ⭐ 6,697 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 27 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
-| 28 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
-| 29 | **openclaw.net** | ⭐ — | 🆕 .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
+| 25 | **microsoft/agent-framework** | ⭐ 8,159 | 🆕 微软官方 Agent 框架，支持 Python/.NET 构建、编排和部署 AI Agent 与多 Agent 工作流 | Agent 框架 |
+| 26 | **openclaw-multiagent-framework** | ⭐ 1,800+ | 多 Agent 协作协议与架构，零配置插件系统 | 核心变种 |
+| 27 | **NullClaw** | ⭐ 6,697 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 28 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+| 29 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
+| 30 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
 
 ### 重点项目详细介绍
 
@@ -989,7 +992,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 331k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 331,833 |
-| 热门变种 | 29 | 130,740 |
+| 热门变种 | 31 | 130,740 |
 | 核心变种 | 8 | 35,683 |
 | 中国特色 | 3 | 26,722 |
 | AutoClaw 系列 | 5 | 40 |
