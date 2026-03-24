@@ -62,6 +62,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
     │   ├── MoltWorker             (9,716 stars)
     │   ├── openclaw-multiagent-framework (1,800+ stars) 🆕
     │   ├── NullClaw               (6,697 stars)
+    │   ├── Koog                   (3,900+ stars) 🆕 JetBrains JVM 框架
     │   ├── PUAClaw                (2,000 stars)
     │   └── Aurogen                (700 stars)
     │
@@ -110,7 +111,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 333,030 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🥇 | **OpenClaw 官方** | ⭐ 331,833 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
 | 🥈 | **LangChain** | ⭐ 130,740 | The Agent Engineering Platform，130k+ Stars | Agent 框架 |
 | 🥉 | **superpowers** | ⭐ 107,271 | Agentic Skills 框架与软件开发方法论 | Agent 框架 |
 | 4 | **everything-claude-code** | ⭐ 101,046 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
@@ -136,10 +137,11 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 | 24 | **MoltWorker** | ⭐ 9,716 | Cloudflare Workers 无服务器运行 | 核心变种 |
 | 25 | **microsoft/agent-framework** | ⭐ 8,159 | 🆕 微软官方 Agent 框架，支持 Python/.NET 构建、编排和部署 AI Agent 与多 Agent 工作流 | Agent 框架 |
 | 26 | **openclaw-multiagent-framework** | ⭐ 1,800+ | 多 Agent 协作协议与架构，零配置插件系统 | 核心变种 |
-| 27 | **NullClaw** | ⭐ 6,697 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 28 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
-| 29 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
-| 30 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
+| 27 | **Koog** | ⭐ 3,900+ | 🆕 JetBrains 开源 JVM (Java/Kotlin) AI Agent 框架，构建可预测、容错、企业级 AI Agent | 核心变种 |
+| 28 | **NullClaw** | ⭐ 6,697 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+| 29 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+| 30 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
+| 31 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
 
 ### 重点项目详细介绍
 
@@ -463,6 +465,37 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 **优点**: 企业级安全、权限控制、审计日志
 
 **适用场景**: 企业使用、对安全有高要求的场景
+
+---
+
+### Koog ⭐ 3,900+ 🆕
+
+> JetBrains 开源 - JVM (Java/Kotlin) AI Agent 框架
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [JetBrains/koog](https://github.com/JetBrains/koog) |
+| 语言 | Kotlin / Java |
+| Stars | 3,900+ |
+| 更新频率 | 活跃（4小时前更新） |
+
+**核心理念**: 构建可预测、容错、企业级 AI Agent，跨所有平台运行——从后端服务到 Android、iOS、JVM、甚至浏览器环境。
+
+**核心功能**:
+- JVM 原生：Java 和 Kotlin 双支持，充分利用现有 Java 生态
+- 跨平台：后端、Android、iOS、浏览器全覆盖
+- 可预测性：确定性行为，企业友好
+- 容错设计：生产级稳定性
+- 基于 AI 产品专业知识，提供复杂 LLM 问题的成熟解决方案
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ JetBrains 背书，质量有保证 | ❌ 相对较新 (2025年启动) |
+| ✅ 活跃开发（数小时前更新） | ❌ 社区生态仍在发展中 |
+| ✅ Java/Kotlin 生态深度集成 | ❌ 主要面向 JVM 开发者 |
+| ✅ 企业级设计理念 | |
+
+**适用场景**: Java/Kotlin 团队、需要在现有 JVM 项目中集成 Agent、企业级 AI 应用、Android AI 助手
 
 ---
 
@@ -992,7 +1025,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 331,833 |
-| 热门变种 | 31 | 130,740 |
+| 热门变种 | 32 | 130,740 |
 | 核心变种 | 8 | 35,683 |
 | 中国特色 | 3 | 26,722 |
 | AutoClaw 系列 | 5 | 40 |
@@ -1015,3 +1048,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 ---
 
 *🦞 Last updated: 2026-03-24 | ClawDen - OpenClaw 变种收集站*
+
+---
+
+> 📅 自动更新于 2026-03-24 by ClawDen 自动更新 Cron
