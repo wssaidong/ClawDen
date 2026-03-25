@@ -69,6 +69,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
     │   ├── NullClaw               (6,697 stars)
     │   ├── Koog                   (3,900+ stars) 🆕 JetBrains JVM 框架
     │   ├── PUAClaw                (2,000 stars)
+    │   ├── agentic-work-playbook (🆕 活模板框架，工作区/工作流/安全/习惯)
+    │   ├── Agent-claw            (🆕 "The lobster way" 任意 OS/平台)
     │   └── Aurogen                (700 stars)
     │
     ├── 🔥 核心变种
@@ -112,7 +114,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-26)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-25)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -152,6 +154,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 | 32 | **Claw-R1** | 🆕 新发现 | 🆕 OpenClaw + Agent-R1，强化学习推理框架，MiddleWare 架构设计 | 垂直领域 |
 | 33 | **Thoth System** | 🆕 新发现 | 🆕 OpenClaw 完整 AI Agent 系统，支持记忆/自我诊断/自我改进/语音/自动化，2分钟配置 | 垂直领域 |
 | 34 | **openclaw-agents** | 🆕 新发现 | 🆕 9个专业化 Agent 协作套件，一键部署，身份/工作区/路由/渠道全套配置 | 核心变种 |
+| 35 | **agentic-work-playbook** | 🆕 新发现 | 🆕 OpenClaw AI Agent 部署与维护的活模板框架，增加工作区架构/工作流/安全/习惯 | 工具与周边 |
+| 36 | **Agent-claw** | 🆕 新发现 | 🆕 "The lobster way" 个人 AI 助手，支持任意 OS/平台 | 其他有趣变种 |
 
 ### 重点项目详细介绍
 
@@ -905,6 +909,61 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ---
 
+### agentic-work-playbook 🆕
+
+> OpenClaw AI Agent 部署与维护的活模板框架
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [Stephane-fci/agentic-work-playbook](https://github.com/Stephane-fci/agentic-work-playbook) |
+| Stars | 🆕 新发现 |
+| 定位 | OpenClaw 上层框架，增加工作区架构/工作流/安全/习惯 |
+
+**核心理念**: 这是一个加性框架，不替换任何东西——它只是给现有功能添砖加瓦。
+
+**核心功能**:
+- 工作区架构（Workspace Architecture）
+- 工作流系统（Workflows）
+- 企业级安全特性
+- Agent 习惯系统（Habits）
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ 在 OpenClaw 基础上增量开发 | ❌ 相对较新 |
+| ✅ 企业级工作流支持 | ❌ 社区规模待发展 |
+| ✅ 安全和习惯开箱即用 | ❌ 需要一定学习成本 |
+
+**适用场景**: 企业级 Agent 部署、需要规范化工作流的团队、追求生产级稳定性的用户
+
+---
+
+### Agent-claw 🆕
+
+> "The lobster way" — 任意 OS / 任意平台的个人 AI 助手
+
+| 属性 | 值 |
+|------|-----|
+| GitHub | [ayaqen/Agent-claw](https://github.com/ayaqen/Agent-claw) |
+| Stars | 🆕 新发现 |
+| 定位 | 个人 AI 助手，跨平台通用 |
+
+**核心理念**: "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+
+**核心功能**:
+- 跨平台支持：任意操作系统
+- 多渠道接入
+- OpenClaw 生态兼容
+
+| 优点 | 缺点 |
+|------|------|
+| ✅ 真正跨平台 | ❌ 相对较新 |
+| ✅ 继承 OpenClaw 生态 | ❌ Star 数量待确认 |
+| ✅ 轻量化设计 | |
+
+**适用场景**: 追求跨平台一致体验的用户、需要在多系统间切换的个人用户
+
+---
+
 ### PUAClaw ⭐ 2,000
 
 > Claw 们终将接管世界
@@ -1118,12 +1177,12 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-03-26
+> 截至 2026-03-25
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 334,000 |
-| 热门变种 | 34 | 131,000 |
+| 热门变种 | 36 | 131,000 |
 | 核心变种 | 8 | 35,683 |
 | 中国特色 | 3 | 26,722 |
 | AutoClaw 系列 | 5 | 40 |
@@ -1145,8 +1204,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-26 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-25 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-03-26 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-03-25 by ClawDen 自动更新 Cron
