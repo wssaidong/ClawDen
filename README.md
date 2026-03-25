@@ -48,7 +48,9 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
     │   ├── deer-flow             (38,294 stars) 🆕
     │   ├── SuperAGI              (17,295 stars) 🆕
     │   ├── OpenClaw-RL            (5,200+ stars) 🆕 HuggingFace 日榜 #1
-    │   ├── Claw-R1                (🆕 OpenClaw + Agent-R1，强化学习推理) 
+    │   ├── Claw-R1                (🆕 OpenClaw + Agent-R1，强化学习推理)
+    │   ├── Thoth System           (🆕 OpenClaw 完整 AI Agent 系统)
+    │   ├── openclaw-agents        (🆕 9 Agent 协作套件)
     │   ├── ZeroClaw               (28,600 stars)
     │   ├── AstrBot                (26,722 stars)
     │   ├── NanoClaw               (25,028 stars)
@@ -110,7 +112,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-25)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-26)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -148,6 +150,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 | 30 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
 | 31 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
 | 32 | **Claw-R1** | 🆕 新发现 | 🆕 OpenClaw + Agent-R1，强化学习推理框架，MiddleWare 架构设计 | 垂直领域 |
+| 33 | **Thoth System** | 🆕 新发现 | 🆕 OpenClaw 完整 AI Agent 系统，支持记忆/自我诊断/自我改进/语音/自动化，2分钟配置 | 垂直领域 |
+| 34 | **openclaw-agents** | 🆕 新发现 | 🆕 9个专业化 Agent 协作套件，一键部署，身份/工作区/路由/渠道全套配置 | 核心变种 |
 
 ### 重点项目详细介绍
 
@@ -1114,7 +1118,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-03-24
+> 截至 2026-03-26
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -1141,8 +1145,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 333k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-25 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-26 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-03-25 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-03-26 by ClawDen 自动更新 Cron
