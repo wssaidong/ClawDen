@@ -36,6 +36,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     ├── 🔥 热门变种
     │   ├── LangChain              (132,000 stars) 🆕 Agent 工程平台
     │   ├── awesome-openclaw-skills (41,500 stars) 🆕 Skills 精选集
+    │   ├── awesome-openclaw-agents (162 stars) 🆕 187个生产级 Agent 模板合集
     │   ├── everything-claude-code (106,320 stars)
     │   ├── superpowers            (111,725 stars)
     │   ├── MetaGPT                (66,100 stars)
@@ -114,7 +115,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-25)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-26)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -150,7 +151,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 28 | **NullClaw** | ⭐ 6,697 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
 | 29 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
 | 30 | **Aurogen** | ⭐ 700 | The Multi-Agent Evolution of OpenClaw | 垂直领域 |
-| 31 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
+| 31 | **awesome-openclaw-agents** | ⭐ 162 | 🆕 187个生产级 Agent 模板合集，覆盖24个分类，开箱即用 SOUL.md | 工具与技能 |
+| 32 | **openclaw.net** | ⭐ 156 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
 | 32 | **Claw-R1** | 🆕 新发现 | 🆕 OpenClaw + Agent-R1，强化学习推理框架，MiddleWare 架构设计 | 垂直领域 |
 | 33 | **Thoth System** | 🆕 新发现 | 🆕 OpenClaw 完整 AI Agent 系统，支持记忆/自我诊断/自我改进/语音/自动化，2分钟配置 | 垂直领域 |
 | 34 | **openclaw-agents** | 🆕 新发现 | 🆕 9个专业化 Agent 协作套件，一键部署，身份/工作区/路由/渠道全套配置 | 核心变种 |
@@ -1177,12 +1179,12 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-03-25
+> 截至 2026-03-26
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
 | 官方里程碑 | 1 | 335,000 |
-| 热门变种 | 36 | 132,000 |
+| 热门变种 | 37 | 132,000 |
 | 核心变种 | 8 | 35,683 |
 | 中国特色 | 3 | 26,722 |
 | AutoClaw 系列 | 5 | 40 |
@@ -1204,8 +1206,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-25 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-26 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-03-25 by ClawDen 自动更新 Cron (晚间)
+> 📅 自动更新于 2026-03-26 by ClawDen 自动更新 Cron (晚间)
