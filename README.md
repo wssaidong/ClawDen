@@ -118,7 +118,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-26 凌晨)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-26)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -136,10 +136,10 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 12 | **nanobot (HKUDS)** | ⭐ 35,900 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
 | 13 | **air i** | ⭐ 35,400 | 自托管 Grok Companion，开源 AI 陪伴助手 | 核心变种 |
 | 14 | **SuperAGI** | ⭐ 17,295 | 🆕 dev-first 开源自主 AI agent 框架，让开发者快速构建、管理和运行有用的自主 Agent | 核心变种 |
-| 15 | **ZeroClaw** | ⭐ 28,574 | Fast, small, and fully autonomous AI assistant | 核心变种 |
+| 15 | **ZeroClaw** | ⭐ 28,600 | Fast, small, and fully autonomous AI assistant | 核心变种 |
 | 16 | **AstrBot** | ⭐ 26,722 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
 | 17 | **NanoClaw** | ⭐ 25,028 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 18 | **Mastra** | ⭐ 22,251 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
+| 18 | **Mastra** | ⭐ 22,300 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
 | 19 | **openai-agents-python** | ⭐ 20,220 | OpenAI 官方 Python Agent SDK，轻量级多 Agent 工作流 | 核心变种 |
 | 20 | **OpenViking** | ⭐ 18,203 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
 | 21 | **LangBot** | ⭐ 15,644 | 生产级多平台智能机器人开发平台 | 中国特色 |
@@ -348,7 +348,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 |------|-----|
 | GitHub | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) |
 | 语言 | TypeScript |
-| Stars | 22,251 |
+| Stars | 22,300 |
 
 **支持平台**: 支持多种 LLM（OpenAI、Anthropic、 Google 等）、多渠道部署
 
