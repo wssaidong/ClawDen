@@ -72,6 +72,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     │   ├── ThinkingMachineLabs/openclaw (🆕 配置驱动框架)
     │   ├── NullClaw               (6,697 stars)
     │   ├── Koog                   (3,900+ stars) 🆕 JetBrains JVM 框架
+    │   ├── claw0                  (🆕 从 0 到 1 构建 AI Agent Gateway，10 节 ~7000 行 Python)
     │   ├── PUAClaw                (2,000 stars)
     │   ├── agentic-work-playbook (🆕 活模板框架，工作区/工作流/安全/习惯)
     │   ├── Agent-claw            (🆕 "The lobster way" 任意 OS/平台)
@@ -118,7 +119,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-26)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-03-27)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -163,6 +164,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 39 | **Thoth System** | 🆕 新发现 | 🆕 OpenClaw 完整 AI Agent 系统，支持记忆/自我诊断/自我改进/语音/自动化，2分钟配置 | 垂直领域 |
 | 40 | **agentic-work-playbook** | 🆕 新发现 | 🆕 OpenClaw AI Agent 部署与维护的活模板框架，增加工作区架构/工作流/安全/习惯 | 工具与周边 |
 | 41 | **Agent-claw** | 🆕 新发现 | 🆕 "The lobster way" 个人 AI 助手，支持任意 OS/平台 | 其他有趣变种 |
+| 42 | **claw0** | 🆕 新发现 | 🆕 从 0 到 1 构建 AI Agent Gateway，10 个章节 ~7000 行 Python，零基础入门 OpenClaw 架构设计 | 核心变种 |
 
 ### 重点项目详细介绍
 
@@ -1184,7 +1186,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-03-26
+> 截至 2026-03-27
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -1211,8 +1213,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-03-26 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-03-27 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-03-26 凌晨 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-03-27 凌晨 by ClawDen 自动更新 Cron
