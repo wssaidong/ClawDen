@@ -34,13 +34,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     │   └── OpenClaw 官方 (335,000 stars) - GitHub TOP 1 🥇
     │
     ├── 🔥 热门变种
-    │   ├── LangChain              (132,000 stars) 🆕 Agent 工程平台
+    │   ├── LangChain              (132,000 stars) Agent 工程平台
     │   ├── awesome-openclaw-skills (41,500 stars) 🆕 Skills 精选集
     │   ├── awesome-openclaw-agents (162 stars) 🆕 187个生产级 Agent 模板合集
     │   ├── everything-claude-code (106,320 stars)
     │   ├── superpowers            (111,725 stars)
     │   ├── MetaGPT                (66,100 stars)
     │   ├── autogen                (56,100 stars)
+    │   ├── Agent-S               (~5,000+ stars) 🆕 自主 GUI Agent 框架
     │   ├── crewAI                 (47,100 stars)
     │   ├── nanobot (HKUDS)        (35,900 stars)
     │   ├── airi                   (35,400 stars) 🆕
@@ -124,6 +125,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
 | 🥇 | **OpenClaw 官方** | ⭐ 335,000 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🆕 | **Agent-S** | ⭐ ~5,000+ | 🆕 开源 Agentic 框架，支持 Agent-Computer Interface，实现计算机自主交互与 GUI  Agent | Agent 框架 |
 | 🥈 | **LangChain** | ⭐ 132,000 | The Agent Engineering Platform，130k+ Stars | Agent 框架 |
 | 🥉 | **superpowers** | ⭐ 111,725 | Agentic Skills 框架与软件开发方法论 | Agent 框架 |
 | 4 | **everything-claude-code** | ⭐ 106,320 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
