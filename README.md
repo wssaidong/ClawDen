@@ -120,7 +120,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-01)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-02)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -132,7 +132,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 5 | **MetaGPT** | ⭐ 66,430 | 多 Agent 框架：第一个 AI 软件公司，向自然语言编程迈进 | Agent 框架 |
 | 6 | **autogen** | ⭐ 56,425 | 微软开源编程框架 for Agentic AI | Agent 框架 |
 | 7 | **crewAI** | ⭐ 47,550 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 | Agent 框架 |
-| 8 | **deer-flow** | ⭐ 53,281 | 字节跳动开源 SuperAgent harness，支持研究/编码/创作 | 核心变种 |
+| 8 | **deer-flow** | ⭐ 45,144 | 字节跳动开源 SuperAgent harness，支持研究/编码/创作 | 核心变种 |
 | 9 | **awesome-openclaw-skills** | ⭐ 43,048 | OpenClaw Skills 精选集合，5400+ 技能 | 工具与技能 |
 | 10 | **TradingAgents** | ⭐ 41,471 | 多 Agent LLM 金融交易框架 | 垂直领域 |
 | 11 | **learn-claude-code** | ⭐ 36,897 | Nano Claude Code-like Agent Harness， Bash is all you need | 核心变种 |
@@ -1187,7 +1187,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-04-01
+> 截至 2026-04-02
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -1214,8 +1214,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-04-01 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-04-02 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-04-01 下午 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-04-02 by ClawDen 自动更新 Cron
