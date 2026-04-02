@@ -52,7 +52,6 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     │   ├── OpenClaw-RL            (5,200+ stars) 🆕 HuggingFace 日榜 #1
     │   ├── Claw-R1                (🆕 OpenClaw + Agent-R1，强化学习推理)
     │   ├── Thoth System           (🆕 OpenClaw 完整 AI Agent 系统)
-    │   ├── openclaw-agents        (🆕 9 Agent 协作套件)
     │   ├── ZeroClaw               (28,600 stars)
     │   ├── AstrBot                (26,722 stars)
     │   ├── NanoClaw               (25,028 stars)
@@ -124,8 +123,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 340,985 | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🆕 | **Agent-S** | ⭐ ~5,000+ | 🆕 开源 Agentic 框架，支持 Agent-Computer Interface，实现计算机自主交互与 GUI  Agent | Agent 框架 |
+| 🥇 | **OpenClaw 官方** | ⭐ 340,985+ | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+| 🆕 | **Agent-S** | ⭐ ~5,000+ | 🆕 开源 Agentic 框架，支持 Agent-Computer Interface，实现计算机自主交互与 GUI Agent | Agent 框架 |
 | 🥈 | **LangChain** | ⭐ 131,574 | The Agent Engineering Platform，130k+ Stars | Agent 框架 |
 | 🥉 | **superpowers** | ⭐ 123,995 | Agentic Skills 框架与软件开发方法论 | Agent 框架 |
 | 4 | **everything-claude-code** | ⭐ 117,403 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code | 开发者工具 |
@@ -140,7 +139,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 13 | **air i** | ⭐ 35,400 | 自托管 Grok Companion，开源 AI 陪伴助手 | 核心变种 |
 | 14 | **cc-switch** | ⭐ 35,412 | 🆕 跨平台桌面 All-in-One 助手，支持 Claude Code/Codex/OpenCode/OpenClaw/Gemini CLI | 开发者工具 |
 | 15 | **SuperAGI** | ⭐ 17,295 | dev-first 开源自主 AI agent 框架 | 核心变种 |
-| 16 | **AstrBot** | ⭐ 28,224 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
+| 16 | **AstrBot** | ⭐ 26,722 | Agentic IM Chatbot基础设施，多平台LLM机器人 | 中国特色 |
 | 17 | **ZeroClaw** | ⭐ 28,600 | Fast, small, and fully autonomous AI assistant | 核心变种 |
 | 18 | **NanoClaw** | ⭐ 25,937 | 轻量级替代方案，容器化运行 | 核心变种 |
 | 19 | **Mastra** | ⭐ 22,463 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
