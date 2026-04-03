@@ -119,7 +119,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-02)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-03)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -1186,7 +1186,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-04-02
+> 截至 2026-04-03
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -1213,8 +1213,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-04-02 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-04-03 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-04-02 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-04-03 by ClawDen 自动更新 Cron
