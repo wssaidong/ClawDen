@@ -36,7 +36,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     ├── 🔥 热门变种
     │   ├── LangChain              (132,000 stars) Agent 工程平台
     │   ├── awesome-openclaw-skills (41,500 stars) 🆕 Skills 精选集
-    │   ├── awesome-openclaw-agents (162 stars) 🆕 187个生产级 Agent 模板合集
+    │   ├── awesome-openclaw-agents (2,202 stars) 🆕 187个生产级 Agent 模板合集
     │   ├── everything-claude-code (106,320 stars)
     │   ├── superpowers            (111,725 stars)
     │   ├── MetaGPT                (66,100 stars)
@@ -70,6 +70,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     │   ├── openclaw-agents        (🆕 9 Agent 协作套件，75+工具)
     │   ├── openclaw-agent-framework (🆕 活模板框架)
     │   ├── ThinkingMachineLabs/openclaw (🆕 配置驱动框架)
+    │   ├── qhkm/awesome-claw (🆕 全生态精选列表，IoT/Rust/安全工具)
+    │   ├── starascendin/openclaw-fork (🆕 扩展渠道 Fork)
     │   ├── NullClaw               (6,697 stars)
     │   ├── Koog                   (3,900+ stars) 🆕 JetBrains JVM 框架
     │   ├── claw0                  (🆕 从 0 到 1 构建 AI Agent Gateway，10 节 ~7000 行 Python)
@@ -119,7 +121,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-03)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-06)
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -164,11 +166,13 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 38 | **Agent-claw** | 🆕 新发现 | "The lobster way" 个人 AI 助手，支持任意 OS/平台 | 其他有趣变种 |
 | 39 | **claw0** | 🆕 新发现 | 从 0 到 1 构建 AI Agent Gateway，10 个章节 ~7000 行 Python，零基础入门 OpenClaw 架构设计 | 核心变种 |
 | 40 | **openclaw-agent-framework** | 🆕 新发现 | 活模板框架，面向 AI Agent 的可持续自动化基础设施 | 工具与周边 |
+| 41 | **qhkm/awesome-claw** | 🆕 新发现 | OpenClaw 生态精选列表，覆盖 150K+ 原版到 IoT 芯片、Rust 框架、安全工具等全生态 | 工具与周边 |
+| 42 | **starascendin/openclaw-fork** | 🆕 新发现 | OpenClaw 个人 AI 助手 Fork，支持 BlueBubbles/Matrix/Zalo 等扩展渠道 | 核心变种 |
 | 41 | **ThinkingMachineLabs/openclaw** | 🆕 新发现 | 配置驱动的 AI 智能体框架，支持 Ollama/ChromaDB/Telegram/Webhook | 核心变种 |
 
 ### 重点项目详细介绍
 
-#### OpenCode ⭐ 11,462
+#### OpenCode ⭐ 11,655
 
 > Go 编写的终端 AI 编码 Agent
 
@@ -176,7 +180,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 |------|-----|
 | GitHub | [opencode-ai/opencode](https://github.com/opencode-ai/opencode) |
 | 语言 | Go |
-| Stars | 11,478 |
+| Stars | 11,655 |
 
 **核心功能**: 终端 AI 编码助手、多 LLM 支持、原生 Go 性能
 
@@ -199,7 +203,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 |------|-----|
 | GitHub | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
 | 语言 | Python |
-| Stars | 35,683 |
+| Stars | 35,900 |
 
 **支持平台**: Telegram, Slack, Discord, WhatsApp, Feishu, QQ, Email, Matrix 等
 
@@ -342,7 +346,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-#### Mastra ⭐ 22,251
+#### Mastra ⭐ 22,463
 
 > TypeScript 原生 AI 应用框架 — 构建 AI 应用和 Agent 的现代 TypeScript 工具
 
@@ -372,7 +376,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-#### openai-agents-python ⭐ 20,220
+#### openai-agents-python ⭐ 20,411
 
 > OpenAI 官方 Python Agent SDK — 轻量级多 Agent 工作流框架
 
@@ -1213,8 +1217,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-04-03 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-04-06 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-04-03 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-04-06 by ClawDen 自动更新 Cron
