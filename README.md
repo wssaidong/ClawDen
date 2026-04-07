@@ -123,7 +123,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 > 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-07)
 
-### 🆕 本次新增发现项目（2026-04-07 凌晨）
+### 🆕 本次新增发现项目（2026-04-07 傍晚）
 
 | 项目 | 发现来源 | 描述 | 分类 |
 |------|----------|------|------|
@@ -135,6 +135,9 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 🆕 **activepieces** | GitHub Topics · AI Agent | AI Agents + MCPs + AI 自动化工作流，支持 ~400 个 MCP 服务器 | 自动化工具 |
 | 🆕 **CowAgent** | GitHub Topics · OpenClaw | 基于大模型的超级 AI 助理，比 OpenClaw 更轻量，支持微信/飞书/钉钉/企微/QQ 等多渠道 | 中国特色 |
 | 🆕 **AionUi** | GitHub Topics · OpenClaw | 免费本地开源 24/7 CoWork 应用，支持 Gemini CLI / Claude Code / Codex / OpenCode 等多 Agent | 开发者工具 |
+| 🆕 **shenhao-stu/openclaw-agents** | GitHub 搜索 | OpenClaw 开箱即用多 Agent 配置套件，9 个专业化 Agent 协作团队，含身份、工作区、路由规则和渠道绑定，单命令部署 | 工具与技能 |
+| 🆕 **activepieces** | GitHub Topics · AI Agent | 开源 AI 自动化平台，AI Agents + MCPs + ~400 个 MCP 服务器，工作流自动化 | 自动化工具 |
+| 🆕 **CopilotKit** | GitHub Topics · AI Agent | Agents & Generative UI 前端技术栈，React + Angular，支持 AG-UI 协议 | 开发者工具 |
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
