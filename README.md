@@ -121,7 +121,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-07)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-04-08)
 
 ### 🆕 本次新增发现项目（2026-04-07 傍晚）
 
@@ -132,12 +132,11 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 🆕 **qhkm/awesome-claw** | GitHub 搜索 | OpenClaw 全生态精选列表，覆盖 IoT 芯片、Rust 框架、安全工具等全生态 | 工具与周边 |
 | 🆕 **Cherry-Studio** | GitHub Topics · AI Agent | AI 生产力工作室，支持智能对话 + 自主 Agents + 300+ 助手，统一访问前沿 LLM（OpenAI/Claude/Gemini/DeepSeek 等） | 工具与仪表板 |
 | 🆕 **CopilotKit** | GitHub Topics · AI Agent | Agents & Generative UI 前端技术栈，React + Angular，支持 AG-UI 协议 | 开发者工具 |
-| 🆕 **activepieces** | GitHub Topics · AI Agent | AI Agents + MCPs + AI 自动化工作流，支持 ~400 个 MCP 服务器 | 自动化工具 |
+| 🆕 **activepieces** | GitHub Topics · AI Agent | 开源 AI 自动化平台，AI Agents + MCPs + ~400 个 MCP 服务器，工作流自动化 | 自动化工具 |
 | 🆕 **CowAgent** | GitHub Topics · OpenClaw | 基于大模型的超级 AI 助理，比 OpenClaw 更轻量，支持微信/飞书/钉钉/企微/QQ 等多渠道 | 中国特色 |
 | 🆕 **AionUi** | GitHub Topics · OpenClaw | 免费本地开源 24/7 CoWork 应用，支持 Gemini CLI / Claude Code / Codex / OpenCode 等多 Agent | 开发者工具 |
 | 🆕 **shenhao-stu/openclaw-agents** | GitHub 搜索 | OpenClaw 开箱即用多 Agent 配置套件，9 个专业化 Agent 协作团队，含身份、工作区、路由规则和渠道绑定，单命令部署 | 工具与技能 |
-| 🆕 **activepieces** | GitHub Topics · AI Agent | 开源 AI 自动化平台，AI Agents + MCPs + ~400 个 MCP 服务器，工作流自动化 | 自动化工具 |
-| 🆕 **CopilotKit** | GitHub Topics · AI Agent | Agents & Generative UI 前端技术栈，React + Angular，支持 AG-UI 协议 | 开发者工具 |
+| 🆕 **awesome-ai-agents-2026** | GitHub Topics · AI Agent | 🤖 2026 年 AI Agent 框架/工具/平台最全列表，AI Agent 主流化元年精选 | 工具与周边 |
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -1206,7 +1205,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ## 📈 项目统计
 
-> 截至 2026-04-07
+> 截至 2026-04-08
 
 | 分类 | 项目数 | 最高 Stars |
 |------|--------|------------|
@@ -1233,8 +1232,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-04-07 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-04-08 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-04-07 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-04-08 by ClawDen 自动更新 Cron
