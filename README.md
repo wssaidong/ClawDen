@@ -52,6 +52,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
     │   ├── OpenClaw-RL            (5,200+ stars) 🆕 HuggingFace 日榜 #1
     │   ├── Claw-R1                (🆕 OpenClaw + Agent-R1，强化学习推理)
     │   ├── Thoth System           (🆕 OpenClaw 完整 AI Agent 系统)
+    │   ├── OpenHarness           (68 stars) 🆕 清华大学，24/7 自主执行框架
     │   ├── ZeroClaw               (28,600 stars)
     │   ├── AstrBot                (26,722 stars)
     │   ├── NanoClaw               (25,028 stars)
@@ -129,6 +130,7 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 |------|----------|------|------|
 | 🆕 **openclaw-agent-framework** | GitHub 搜索 | 活模板框架，面向 AI Agent 的可持续自动化基础设施，主要受众是 AI Agent 本身 | 工具与周边 |
 | 🆕 **openclaw-agents** | GitHub 搜索 | 187个生产级 Agent 模板合集，75+工具，12个专家Agent，支持优先级任务路由和4层 LLM 回退 | 工具与技能 |
+| 🆕 **OpenHarness** | GitHub 搜索 | 清华大学团队开源，24/7 自主 AI Agent 执行框架，基于 Harness Engineering 概念，绝对可靠性优先于涌现智能 | 垂直领域 |
 | 🆕 **qhkm/awesome-claw** | GitHub 搜索 | OpenClaw 全生态精选列表，覆盖 IoT 芯片、Rust 框架、安全工具等全生态 | 工具与周边 |
 | 🆕 **Cherry-Studio** | GitHub Topics · AI Agent | AI 生产力工作室，支持智能对话 + 自主 Agents + 300+ 助手，统一访问前沿 LLM（OpenAI/Claude/Gemini/DeepSeek 等） | 工具与仪表板 |
 | 🆕 **CopilotKit** | GitHub Topics · AI Agent | Agents & Generative UI 前端技术栈，React + Angular，支持 AG-UI 协议 | 开发者工具 |
@@ -183,7 +185,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 | 40 | **openclaw-agent-framework** | 🆕 新发现 | 活模板框架，面向 AI Agent 的可持续自动化基础设施 | 工具与周边 |
 | 41 | **qhkm/awesome-claw** | 🆕 新发现 | OpenClaw 生态精选列表，覆盖 150K+ 原版到 IoT 芯片、Rust 框架、安全工具等全生态 | 工具与周边 |
 | 42 | **starascendin/openclaw-fork** | 🆕 新发现 | OpenClaw 个人 AI 助手 Fork，支持 BlueBubbles/Matrix/Zalo 等扩展渠道 | 核心变种 |
-| 41 | **ThinkingMachineLabs/openclaw** | 🆕 新发现 | 配置驱动的 AI 智能体框架，支持 Ollama/ChromaDB/Telegram/Webhook | 核心变种 |
+| 42 | **ThinkingMachineLabs/openclaw** | 🆕 新发现 | 配置驱动的 AI 智能体框架，支持 Ollama/ChromaDB/Telegram/Webhook | 核心变种 |
+| 43 | **OpenHarness** | 🆕 新发现 | 清华大学团队开源，24/7 自主 AI Agent 执行框架 for OpenClaw，Harness Engineering，绝对可靠性优先，68 stars | 垂直领域 |
 
 ### 重点项目详细介绍
 
@@ -1236,4 +1239,4 @@ OpenClaw (原 Clawdbot / Moltbot) - 335k+ stars 🚀
 
 ---
 
-> 📅 自动更新于 2026-04-09 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-04-09（本次新增：OpenHarness）by ClawDen 自动更新 Cron
