@@ -31,45 +31,45 @@
 OpenClaw (原 Clawdbot / Moltbot) - 367,342+ stars 🚀
     │
     ├── 🔥 官方里程碑
-    │   └── OpenClaw 官方 (366,595 stars) - GitHub TOP 1 🥇
+    │   └── OpenClaw 官方 (367,342 stars) - GitHub TOP 1 🥇
     │
     │   ├── 🔥 热门变种
-    │   │   ├── LangChain              (135,462 stars) Agent 工程平台
-    │   │   ├── hermes-agent          (125,949 stars) NousResearch，"The agent that grows with you"
-    │   │   ├── awesome-openclaw-skills (47,607 stars) Skills 精选集
-    │   │   ├── everything-claude-code (170,570 stars)
-    │   │   ├── superpowers            (173,915 stars)
-    │   │   ├── MetaGPT                (67,575 stars)
-    │   │   ├── autogen                (57,598 stars)
+    │   │   ├── LangChain              (135,658 stars) Agent 工程平台
+    │   │   ├── hermes-agent          (130,342 stars) NousResearch，"The agent that grows with you"
+    │   │   ├── awesome-openclaw-skills (47,810 stars) Skills 精选集
+    │   │   ├── everything-claude-code (172,322 stars)
+    │   │   ├── superpowers            (176,887 stars)
+    │   │   ├── MetaGPT                (67,646 stars)
+    │   │   ├── autogen                (57,667 stars)
     │   │   ├── Agent-S               (~5,000+ stars) 自主 GUI Agent 框架
-    │   │   ├── crewAI                 (47,550 stars)
-    │   │   ├── nanobot (HKUDS)        (41,355 stars)
-    │   │   ├── airi                   (38,739 stars)
-    │   │   ├── graphify              (38,656 stars) 知识图谱编码助手
-    │   │   ├── learn-claude-code      (36,897 stars)
-    │   │   ├── TradingAgents          (41,471 stars)
-    │   │   ├── deer-flow             (64,332 stars)
+    │   │   ├── crewAI                 (50,515 stars)
+    │   │   ├── nanobot (HKUDS)        (41,542 stars)
+    │   │   ├── graphify              (41,119 stars) 知识图谱编码助手
+    │   │   ├── learn-claude-code      (57,873 stars)
+    │   │   ├── TradingAgents          (63,872 stars)
+    │   │   ├── deer-flow             (64,551 stars)
     │   │   ├── SuperAGI              (17,295 stars)
     │   │   ├── OpenClaw-RL            (5,181 stars) HuggingFace 日榜 #1
     │   │   ├── Claw-R1                (🆕 OpenClaw + Agent-R1，强化学习推理)
     │   │   ├── Thoth System           (🆕 OpenClaw 完整 AI Agent 系统)
     │   │   ├── OpenHarness           (🆕 清华大学，24/7 自主执行框架)
-    │   │   ├── ZeroClaw               (30,830 stars)
-    │   │   ├── CowAgent               (43,899 stars) 中国特色超级 AI 助理
+    │   │   ├── ZeroClaw               (30,940 stars)
+    │   │   ├── CowAgent               (43,978 stars) 中国特色超级 AI 助理
     │   │   ├── AstrBot                (31,032 stars)
-    │   │   ├── NanoClaw               (28,406 stars)
-    │   │   ├── cc-switch              (56,221 stars)
+    │   │   ├── NanoClaw               (28,525 stars)
+    │   │   ├── cc-switch              (58,137 stars)
+    │   │   ├── ruvnet/ruflo           (37,349 stars) 🆕 Claude Agent 编排平台
     │   │   ├── openclaw.net           (.NET 实现，NativeAOT 友好，289 stars)
-    │   │   ├── Mastra                 (23,437 stars)
-    │   │   ├── openai-agents-python   (25,588 stars)
+    │   │   ├── Mastra                 (23,497 stars)
+    │   │   ├── openai-agents-python   (25,803 stars)
     │   │   ├── NemoClaw              (19,920 stars) NVIDIA，OpenShell 安全运行
     │   │   ├── OpenViking             (23,278 stars)
     │   │   ├── LangBot                (15,937 stars)
     │   │   ├── OpenFang               (17,073 stars)
-    │   │   ├── awesome-openclaw-usecases (30,364 stars)
+    │   │   ├── awesome-openclaw-usecases (30,644 stars)
     │   │   ├── Claude-mem             (70,001 stars)
     │   │   ├── memU                   (13,494 stars)
-    │   │   ├── microsoft/agent-framework (9,979 stars)
+    │   │   ├── microsoft/agent-framework (10,057 stars)
     │   │   ├── OpenCode               (12,267 stars)
     │   │   ├── MoltWorker             (9,875 stars)
     │   │   ├── openclaw-multiagent-framework (1,800+ stars)
@@ -89,8 +89,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 367,342+ stars 🚀
     │   │   └── Aurogen                (700 stars)
     │
     ├── 🔥 核心变种
-    │   ├── nanobot (HKUDS)     (超轻量级，35k+ stars)
-    │   ├── nanoclaw            (轻量化替代)
+    │   ├── nanobot (HKUDS)     (超轻量级，41k+ stars)
+    │   ├── nanoclaw            (轻量化替代，28k+ stars)
     │   ├── moltworker          (Cloudflare Workers)
     │   ├── poco-claw           (美观替代)
     │   └── secure-openclaw     (安全强化)
@@ -101,12 +101,14 @@ OpenClaw (原 Clawdbot / Moltbot) - 367,342+ stars 🚀
     │   └── autoclaw-browser (浏览器自动化)
     │
     ├── 🇨🇳 中国特色
+    │   ├── CowAgent          (43,978 stars) 超级 AI 助理
+    │   ├── AstrBot           (31,032 stars) 多平台 LLM 机器人
     │   ├── openclaw-china   (飞书/钉钉/QQ/微信)
     │   ├── openclaw-wechat  (个人微信)
     │   └── OpenClawChineseTranslation (汉化版)
     │
     ├── 🎯 垂直领域
-    │   ├── TradingAgents    (41,471 stars) 🆕 多 Agent LLM 金融交易框架
+    │   ├── TradingAgents    (63,872 stars) 🆕 多 Agent LLM 金融交易框架
     │   ├── OpenClaw-RL      (强化学习训练)
     │   ├── OpenClaw-Medical-Skills (医疗)
     │   └── nof1.ai         (AI 交易系统)
@@ -118,7 +120,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 367,342+ stars 🚀
     │   ├── antfarm          (Agent 团队)
     │   ├── lobster          (工作流引擎)
     │   ├── crabwalk         (实时监控)
-    │   └── 1Panel           (🔥 原生支持 OpenClaw 部署，2M+ 用户) 🆕
+    │   ├── 1Panel           (🔥 原生支持 OpenClaw 部署，2M+ 用户，35k+ stars) 🆕
+    │   └── ruvnet/ruflo     (37,349 stars) 🆕 Claude Agent 编排平台
     │
     └── 📦 记忆与存储
         ├── memU             (记忆系统)
@@ -130,76 +133,68 @@ OpenClaw (原 Clawdbot / Moltbot) - 367,342+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-05-02)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-05-03)
 
-### 🆕 本次新增发现项目（2026-05-02 更新）
+### 🆕 本次新增发现项目（2026-05-03 更新）
 
-| 项目 | 发现来源 | 描述 | 分类 |
-|------|----------|------|------|
-| 🆕 **hermes-agent** | GitHub API | ⭐ 128,892 · NousResearch 开源，"The agent that grows with you"，**OpenClaw 生态最大变种之一** 🚀 | Agent 框架 |
-| 🆕 **CowAgent** | GitHub API | ⭐ 43,955 · 超级 AI 助理，支持微信/飞书/钉钉、长期记忆和知识库，比 OpenClaw 更轻量 | 中国特色 |
-| 🆕 **graphify** | GitHub API | ⭐ 37,549 · AI 编码助手技能，支持 Claude Code/Codex/OpenCode/Cursor 等，将代码库转化为可查询知识图谱 | 开发者工具 |
-| 🆕 **awesome-openclaw-usecases** | GitHub API | ⭐ 30,692 · OpenClaw 实用案例社区集合 | 工具与周边 |
-| 🆕 **NemoClaw** | GitHub API | ⭐ 19,920 · NVIDIA 开源，在 OpenShell 内更安全地运行 OpenClaw | 核心变种 |
-| 🆕 **VibeVoice** | GitHub Trending | ⭐ 46,227 · 微软开源前沿语音 AI，支持实时语音交互、语音合成、多模态理解 🚀 | 语音 AI |
-| 🆕 **awesome-codex-skills** | GitHub Trending | ⭐ 4,429 · Codex CLI 和 API 自动化工作流技能精选集，**今日 +953 stars** | 开发者工具 |
-| 🆕 **free-claude-code** | GitHub Trending | ⭐ 18,007 · 终端/VSCode/Discord 免费 Claude Code，支持 OpenClaw 协议 🚀 | 开发者工具 |
-| 🆕 **GitNexus** | GitHub Trending | ⭐ 34,241 · 零服务器代码智能引擎，浏览器内知识图谱 + Graph RAG Agent，适合代码探索 | 开发者工具 |
-| 🆕 **edict** | GitHub API | ⭐ 15,557 · 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System，9 个专业 Agent 协作 | 核心变种 |
+|| 项目 | 发现来源 | 描述 | 分类 |
+||------|----------|------|------|
+|| 🆕 **ruvnet/ruflo** | GitHub Trending | ⭐ 37,349 · 🔥 今日 +1,299 stars，Claude Agent 编排平台，支持多 Agent swarm、分布式 swarm intelligence、RAG 集成 🚀 | Agent 编排 |
+|| 🆕 **nanoclaw** | GitHub API | ⭐ 28,525 · 轻量级替代方案，容器化运行，使用 Anthropic Agents SDK | 核心变种 |
 
-| 排名 | 项目 | Stars | 描述 | 分类 |
-|------|------|-------|------|------|
-| 🥇 | **OpenClaw 官方** | ⭐ 367,342+ | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
-| 🥈 | **superpowers** | ⭐ 173,915 | Agentic Skills 框架与软件开发方法论 ↑🚀 (本周 +23,365) | Agent 框架 |
-| 🥉 | **everything-claude-code** | ⭐ 171,191 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code ↑🚀 (本周 +53,167) | 开发者工具 |
-| 4 | **LangChain** | ⭐ 135,462 | The Agent Engineering Platform，Agent 工程平台 ↑ | Agent 框架 |
-| 5 | **hermes-agent** | ⭐ 128,892 | NousResearch 开源，"The agent that grows with you" ↑ 🚀 | Agent 框架 |
-| 6 | **Claude-mem** | ⭐ 70,001 | Claude Code 记忆插件，自动捕获 AI 操作并注入未来会话 | 开发者工具 |
-| 7 | **MetaGPT** | ⭐ 67,575 | 多 Agent 框架：第一个 AI 软件公司 ↑ | Agent 框架 |
-| 8 | **deer-flow** | ⭐ 64,332 | 字节跳动开源 SuperAgent harness ↑🚀 (本周 +19,188) | 核心变种 |
-| 9 | **autogen** | ⭐ 57,598 | 微软开源编程框架 for Agentic AI ↑ | Agent 框架 |
-| 10 | **cc-switch** | ⭐ 56,838 | 跨平台桌面 All-in-One 助手，支持 Claude Code/Codex/OpenCode/OpenClaw/Gemini CLI | 开发者工具 |
-| 11 | **crewAI** | ⭐ 47,550 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 | Agent 框架 |
-| 12 | **awesome-openclaw-skills** | ⭐ 47,607 | OpenClaw Skills 精选集合，5400+ 技能 ↑ | 工具与技能 |
-| 13 | **VibeVoice** | ⭐ 46,227 | 微软开源前沿语音 AI，实时语音交互 + 多模态理解 🚀 | 语音 AI |
-| 14 | **CowAgent** | ⭐ 43,955 | 超级 AI 助理，支持微信/飞书/钉钉、长期记忆和知识库 | 中国特色 |
-| 15 | **TradingAgents** | ⭐ 41,471 | 多 Agent LLM 金融交易框架 | 垂直领域 |
-| 16 | **nanobot (HKUDS)** | ⭐ 41,494 | Ultra-Lightweight OpenClaw，超轻量级 | 核心变种 |
-| 17 | **airi** | ⭐ 38,739 | 自托管 Grok Companion，开源 AI 陪伴助手 | 核心变种 |
-| 18 | **graphify** | ⭐ 39,281 | AI 编码助手技能，将代码库转化为可查询知识图谱 | 开发者工具 |
-| 19 | **learn-claude-code** | ⭐ 57,787 | Nano Claude Code-like Agent Harness 🚀 (本周 +20,890) | 核心变种 |
-| 20 | **GitNexus** | ⭐ 34,241 | 零服务器代码智能引擎，浏览器内知识图谱 + Graph RAG Agent | 开发者工具 |
-| 21 | **ZeroClaw** | ⭐ 30,830 | Fast, small, and fully autonomous AI assistant | 核心变种 |
-| 22 | **AstrBot** | ⭐ 31,032 | Agentic IM Chatbot 基础设施，多平台 LLM 机器人 | 中国特色 |
-| 23 | **awesome-openclaw-usecases** | ⭐ 30,644 | OpenClaw 实用案例社区集合 | 工具与周边 |
-| 24 | **NanoClaw** | ⭐ 28,448 | 轻量级替代方案，容器化运行 | 核心变种 |
-| 25 | **openai-agents-python** | ⭐ 25,588 | OpenAI 官方 Python Agent SDK ↑ | 核心变种 |
-| 26 | **OpenViking** | ⭐ 23,278 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
-| 27 | **Mastra** | ⭐ 23,437 | TypeScript AI 应用框架，支持多 Agent 编排 | 核心变种 |
-| 28 | **NemoClaw** | ⭐ 19,920 | NVIDIA 开源，在 OpenShell 内更安全地运行 OpenClaw | 核心变种 |
-| 29 | **free-claude-code** | ⭐ 18,007 | 终端/VSCode/Discord 免费 Claude Code，支持 OpenClaw 协议 🚀 | 开发者工具 |
-| 30 | **SuperAGI** | ⭐ 17,295 | dev-first 开源自主 AI agent 框架 | 核心变种 |
-| 31 | **OpenFang** | ⭐ 17,073 | Open-source Agent Operating System | 工具与仪表板 |
-| 32 | **LangBot** | ⭐ 15,937 | 生产级多平台智能机器人开发平台 | 中国特色 |
-| 33 | **memU** | ⭐ 13,494 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
-| 34 | **OpenCode** | ⭐ 12,267 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
-| 35 | **GenericAgent** | ⭐ 7,206 | 自进化 Agent，3.3K 行种子代码自动生长技能树 ↑ | 核心变种 |
-| 36 | **MoltWorker** | ⭐ 9,875 | Cloudflare Workers 无服务器运行 | 核心变种 |
-| 37 | **microsoft/agent-framework** | ⭐ 9,979 | 微软官方 Agent 框架，支持 Python/.NET 构建、编排和部署 AI Agent ↑ | Agent 框架 |
-| 38 | **NullClaw** | ⭐ 7,373 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
-| 39 | **ClawRouter** | ⭐ 6,533 | Agent-native LLM Router for OpenClaw，41+ 模型、<1ms 路由、支持 USDC 支付 | 工具与周边 |
-| 40 | **Koog** | ⭐ 3,900+ | JetBrains 开源 JVM (Java/Kotlin) AI Agent 框架 | 核心变种 |
-| 41 | **openclaw-multiagent-framework** | ⭐ 1,800+ | 多 Agent 协作协议与架构，零配置插件系统 | 核心变种 |
-| 42 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
-| 43 | **openclaw-agents** | ⭐ 2,202 | 187个生产级 Agent 模板合集，覆盖24个分类，开箱即用 SOUL.md | 工具与技能 |
-| 44 | **openclaw.net** | ⭐ 289 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
-| 45 | **Claw-R1** | 🆕 新发现 | OpenClaw + Agent-R1，强化学习推理框架，MiddleWare 架构设计 | 垂直领域 |
-| 46 | **Thoth System** | 🆕 新发现 | OpenClaw 完整 AI Agent 系统，支持记忆/自我诊断/自我改进/语音/自动化 | 垂直领域 |
-| 47 | **agentic-work-playbook** | 🆕 新发现 | OpenClaw AI Agent 部署与维护的活模板框架 | 工具与周边 |
-| 48 | **Agent-claw** | 🆕 新发现 | "The lobster way" 个人 AI 助手，支持任意 OS/平台 | 其他有趣变种 |
-| 49 | **claw0** | 🆕 新发现 | 从 0 到 1 构建 AI Agent Gateway，10 个章节 ~7000 行 Python | 核心变种 |
-| 50 | **qhkm/awesome-claw** | 🆕 新发现 | OpenClaw 生态精选列表，覆盖 IoT 芯片、Rust 框架、安全工具等全生态 | 工具与周边 |
-| 51 | **OpenHarness** | 🆕 新发现 | 清华大学团队开源，24/7 自主 AI Agent 执行框架 for OpenClaw | 垂直领域 |
+|| 排名 | 项目 | Stars | 描述 | 分类 |
+||------|------|-------|------|------|
+|| 🥇 | **OpenClaw 官方** | ⭐ 367,342+ | 官方仓库，AI Agent 框架 TOP 1 | 官方 |
+|| 🥈 | **superpowers** | ⭐ 176,887 | Agentic Skills 框架与软件开发方法论 ↑🚀 | Agent 框架 |
+|| 🥉 | **everything-claude-code** | ⭐ 172,322 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code ↑🚀 | 开发者工具 |
+|| 4 | **LangChain** | ⭐ 135,658 | The Agent Engineering Platform，Agent 工程平台 ↑ | Agent 框架 |
+|| 5 | **hermes-agent** | ⭐ 130,342 | NousResearch 开源，"The agent that grows with you" ↑ 🚀 | Agent 框架 |
+|| 6 | **Claude-mem** | ⭐ 70,001 | Claude Code 记忆插件，自动捕获 AI 操作并注入未来会话 | 开发者工具 |
+|| 7 | **MetaGPT** | ⭐ 67,646 | 多 Agent 框架：第一个 AI 软件公司 ↑ | Agent 框架 |
+|| 8 | **deer-flow** | ⭐ 64,551 | 字节跳动开源 SuperAgent harness ↑🚀 | 核心变种 |
+|| 9 | **autogen** | ⭐ 57,667 | 微软开源编程框架 for Agentic AI ↑ | Agent 框架 |
+|| 10 | **cc-switch** | ⭐ 58,137 | 跨平台桌面 All-in-One 助手，支持 Claude Code/Codex/OpenCode/OpenClaw/Gemini CLI ↑ | 开发者工具 |
+|| 11 | **crewAI** | ⭐ 50,515 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 ↑ | Agent 框架 |
+|| 12 | **awesome-openclaw-skills** | ⭐ 47,810 | OpenClaw Skills 精选集合，5400+ 技能 ↑ | 工具与技能 |
+|| 13 | **VibeVoice** | ⭐ 46,227 | 微软开源前沿语音 AI，实时语音交互 + 多模态理解 🚀 | 语音 AI |
+|| 14 | **CowAgent** | ⭐ 43,978 | 超级 AI 助理，支持微信/飞书/钉钉、长期记忆和知识库 | 中国特色 |
+|| 15 | **nanobot (HKUDS)** | ⭐ 41,542 | Ultra-Lightweight OpenClaw，超轻量级 ↑ | 核心变种 |
+|| 16 | **TradingAgents** | ⭐ 63,872 | 多 Agent LLM 金融交易框架 🚀 (今日 +2,225) | 垂直领域 |
+|| 17 | **graphify** | ⭐ 41,119 | AI 编码助手技能，将代码库转化为可查询知识图谱 | 开发者工具 |
+|| 18 | **learn-claude-code** | ⭐ 57,873 | Nano Claude Code-like Agent Harness ↑🚀 | 核心变种 |
+|| 19 | **ruvnet/ruflo** | ⭐ 37,349 | Claude Agent 编排平台，支持多 Agent swarm、RAG 集成 🆕 | Agent 编排 |
+|| 20 | **ShareX** | ⭐ 36,996 | 跨平台 All-in-One 助手，支持 Claude Code/OpenClaw 协议 🆕 | 开发者工具 |
+|| 21 | **GitNexus** | ⭐ 34,241 | 零服务器代码智能引擎，浏览器内知识图谱 + Graph RAG Agent | 开发者工具 |
+|| 22 | **AstrBot** | ⭐ 31,032 | Agentic IM Chatbot 基础设施，多平台 LLM 机器人 | 中国特色 |
+|| 23 | **awesome-openclaw-usecases** | ⭐ 30,644 | OpenClaw 实用案例社区集合 | 工具与周边 |
+|| 24 | **NanoClaw** | ⭐ 28,525 | 轻量级替代方案，容器化运行，使用 Anthropic Agents SDK ↑ | 核心变种 |
+|| 25 | **openai-agents-python** | ⭐ 25,803 | OpenAI 官方 Python Agent SDK ↑ | 核心变种 |
+|| 26 | **Mastra** | ⭐ 23,497 | TypeScript AI 应用框架，支持多 Agent 编排 ↑ | 核心变种 |
+|| 27 | **OpenViking** | ⭐ 23,278 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
+|| 28 | **NemoClaw** | ⭐ 19,920 | NVIDIA 开源，在 OpenShell 内更安全地运行 OpenClaw | 核心变种 |
+|| 29 | **free-claude-code** | ⭐ 18,007 | 终端/VSCode/Discord 免费 Claude Code，支持 OpenClaw 协议 🚀 | 开发者工具 |
+|| 30 | **SuperAGI** | ⭐ 17,295 | dev-first 开源自主 AI agent 框架 | 核心变种 |
+|| 31 | **OpenFang** | ⭐ 17,073 | Open-source Agent Operating System | 工具与仪表板 |
+|| 32 | **LangBot** | ⭐ 15,937 | 生产级多平台智能机器人开发平台 | 中国特色 |
+|| 33 | **memU** | ⭐ 13,494 | 24/7 主动 Agent 记忆系统 | 记忆系统 |
+|| 34 | **OpenCode** | ⭐ 12,267 | Go 编写的终端 AI 编码 Agent | 开发者工具 |
+|| 35 | **microsoft/agent-framework** | ⭐ 10,057 | 微软官方 Agent 框架，支持 Python/.NET 构建、编排和部署 AI Agent ↑ | Agent 框架 |
+|| 36 | **GenericAgent** | ⭐ 7,206 | 自进化 Agent，3.3K 行种子代码自动生长技能树 ↑ | 核心变种 |
+|| 37 | **MoltWorker** | ⭐ 9,875 | Cloudflare Workers 无服务器运行 | 核心变种 |
+|| 38 | **NullClaw** | ⭐ 7,373 | 最轻量 Zig 实现，678KB 二进制，<2ms 启动 | 核心变种 |
+|| 39 | **ClawRouter** | ⭐ 6,533 | Agent-native LLM Router for OpenClaw，41+ 模型、<1ms 路由、支持 USDC 支付 | 工具与周边 |
+|| 40 | **Koog** | ⭐ 3,900+ | JetBrains 开源 JVM (Java/Kotlin) AI Agent 框架 | 核心变种 |
+|| 41 | **openclaw-multiagent-framework** | ⭐ 1,800+ | 多 Agent 协作协议与架构，零配置插件系统 | 核心变种 |
+|| 42 | **PUAClaw** | ⭐ 2,000 | Claw 们终将接管世界 | 其他有趣变种 |
+|| 43 | **openclaw-agents** | ⭐ 2,202 | 187个生产级 Agent 模板合集，覆盖24个分类，开箱即用 SOUL.md | 工具与技能 |
+|| 44 | **openclaw.net** | ⭐ 289 | .NET 实现版，NativeAOT 友好，支持 JS/TS 插件生态 | 核心变种 |
+|| 45 | **Claw-R1** | 🆕 新发现 | OpenClaw + Agent-R1，强化学习推理框架，MiddleWare 架构设计 | 垂直领域 |
+|| 46 | **Thoth System** | 🆕 新发现 | OpenClaw 完整 AI Agent 系统，支持记忆/自我诊断/自我改进/语音/自动化 | 垂直领域 |
+|| 47 | **agentic-work-playbook** | 🆕 新发现 | OpenClaw AI Agent 部署与维护的活模板框架 | 工具与周边 |
+|| 48 | **Agent-claw** | 🆕 新发现 | "The lobster way" 个人 AI 助手，支持任意 OS/平台 | 其他有趣变种 |
+|| 49 | **claw0** | 🆕 新发现 | 从 0 到 1 构建 AI Agent Gateway，10 个章节 ~7000 行 Python | 核心变种 |
+|| 50 | **qhkm/awesome-claw** | 🆕 新发现 | OpenClaw 生态精选列表，覆盖 IoT 芯片、Rust 框架、安全工具等全生态 | 工具与周边 |
+|| 51 | **OpenHarness** | 🆕 新发现 | 清华大学团队开源，24/7 自主 AI Agent 执行框架 for OpenClaw | 垂直领域 |
 
 ### 重点项目详细介绍
 
