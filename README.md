@@ -133,17 +133,19 @@ OpenClaw (原 Clawdbot / Moltbot) - 369,864+ stars 🚀
 
 ## 🔥 热门变种项目
 
-> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-05-06)
+> 按 GitHub Stars 数量排序，数据来源 GitHub API + GitHub Trending (更新于 2026-05-07)
 
-### 🆕 本次新增发现项目（2026-05-06 更新）
+### 🆕 本次新增发现项目（2026-05-07 更新）
 
-|||| 项目 | 发现来源 | 描述 | 分类 |
-||||------|----------|------|------|
-|||| 🆕 **langflow-ai/langflow** | GitHub Trending | ⭐ 147,756 · 强大的 AI Agent 与 Workflow 构建与部署平台 | Agent 框架 |
-|||| 🆕 **anthropics/skills** | GitHub Trending | ⭐ 128,828 · Anthropic 官方 Agent Skills 公开仓库 | 工具与技能 |
-|||| 🆕 **langgenius/dify** | GitHub Trending | ⭐ 140,264 · 生产级 Agentic Workflow 开发平台，LLMOps 全栈工具链 | Agent 框架 |
-|||| 🆕 **CherryHQ/cherry-studio** | GitHub Trending | ⭐ 45,075 · AI 生产力工作室，支持智能对话、自主 Agent 与 300+ 助手 | 开发者工具 |
-|||| 🆕 **bytedance/deer-flow** | GitHub Trending | ⭐ 65,298 · 字节跳动开源 SuperAgent harness ↑🚀 | 核心变种 |
+||||| 项目 | 发现来源 | 描述 | 分类 |
+|||||------|----------|------|------|
+||||| 🆕 **addyosmani/agent-skills** | GitHub Trending | ⭐ 31,998+ · Google 工程师开源的生产级 AI 编码技能库 | 工具与技能 |
+||||| 🆕 **virattt/dexter** | GitHub Trending | ⭐ 24,582+ · 自主金融研究 Agent，支持深度调研 | 垂直领域 |
+||||| 🆕 **Hmbown/DeepSeek-TUI** | GitHub Trending | ⭐ 16,913+ · DeepSeek 模型的终端编码 Agent | 开发者工具 |
+||||| 🆕 **InsForge/InsForge** | GitHub Trending | ⭐ 8,643+ · Postgres 后端，为编码 Agent 构建 | 开发者工具 |
+||||| 🆕 **anthropics/financial-services** | GitHub Trending | ⭐ 9,626+ · Anthropic 官方金融服务 Agent 参考架构 | 垂直领域 |
+||||| 🆕 **langflow-ai/langflow** | GitHub Trending | ⭐ 147,756+ · 强大的 AI Agent 与 Workflow 构建平台 | Agent 框架 |
+||||| 🆕 **langgenius/dify** | GitHub Trending | ⭐ 140,264+ · 生产级 Agentic Workflow 开发平台 | Agent 框架 |
 
 | 排名 | 项目 | Stars | 描述 | 分类 |
 |------|------|-------|------|------|
@@ -151,27 +153,27 @@ OpenClaw (原 Clawdbot / Moltbot) - 369,864+ stars 🚀
 | 🥈 | **superpowers** | ⭐ 180,020 | Agentic Skills 框架与软件开发方法论 ↑🚀 | Agent 框架 |
 | 🥉 | **everything-claude-code** | ⭐ 174,312 | Agent Harness 性能优化系统，支持 OpenCode/Cursor/Claude Code ↑🚀 | 开发者工具 |
 | 4 | **hermes-agent** | ⭐ 135,068 | NousResearch 开源，"The agent that grows with you" ↑🚀 | Agent 框架 |
-| 5 | **anthropics/skills** | ⭐ 128,828 | Anthropic 官方 Agent Skills 公开仓库 🆕 | 工具与技能 |
-| 6 | **TradingAgents** | ⭐ 68,463 | 多 Agent LLM 金融交易框架 ↑ | 垂直领域 |
-| 7 | **deer-flow** | ⭐ 65,298 | 字节跳动开源 SuperAgent harness ↑🚀 | 核心变种 |
-| 8 | **cc-switch** | ⭐ 60,639 | 跨平台桌面 All-in-One 助手，支持 Claude Code/Codex/OpenCode/OpenClaw/Gemini CLI ↑ | 开发者工具 |
-| 9 | **learn-claude-code** | ⭐ 57,873 | Nano Claude Code-like Agent Harness ↑🚀 | 核心变种 |
-| 10 | **autogen** | ⭐ 57,667 | 微软开源编程框架 for Agentic AI ↑ | Agent 框架 |
-| 11 | **crewAI** | ⭐ 50,732 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 ↑ | Agent 框架 |
-| 12 | **awesome-openclaw-skills** | ⭐ 48,031 | OpenClaw Skills 精选集合，5400+ 技能 ↑ | 工具与技能 |
-| 13 | **CherryHQ/cherry-studio** | ⭐ 45,075 | AI 生产力工作室，支持智能对话、自主 Agent 与 300+ 助手 🆕 | 开发者工具 |
-| 14 | **CowAgent** | ⭐ 44,064 | 超级 AI 助理，支持微信/飞书/钉钉、长期记忆和知识库 | 中国特色 |
-| 15 | **graphify** | ⭐ 43,583 | AI 编码助手技能，将代码库转化为可查询知识图谱 ↑ | 开发者工具 |
-| 16 | **nanobot (HKUDS)** | ⭐ 41,757 | Ultra-Lightweight OpenClaw，超轻量级 ↑ | 核心变种 |
-| 17 | **ruvnet/ruflo** | ⭐ 42,309 | Claude Agent 编排平台，支持多 Agent swarm、RAG 集成 | Agent 编排 |
-| 18 | **NanoClaw** | ⭐ 28,525 | 轻量级替代方案，容器化运行，使用 Anthropic Agents SDK ↑ | 核心变种 |
-| 19 | **AstrBot** | ⭐ 31,435 | Agentic IM Chatbot 基础设施，多平台 LLM 机器人 | 中国特色 |
-| 20 | **awesome-openclaw-usecases** | ⭐ 30,798 | OpenClaw 实用案例社区集合 | 工具与周边 |
-| 21 | **Claude-mem** | ⭐ 70,001 | Claude Code 记忆插件，自动捕获 AI 操作并注入未来会话 | 开发者工具 |
-| 22 | **Mastra** | ⭐ 23,497 | TypeScript AI 应用框架，支持多 Agent 编排 ↑ | 核心变种 |
-| 23 | **OpenViking** | ⭐ 23,523 | 字节跳动开源上下文数据库，专为 AI Agents 设计 | 记忆系统 |
-| 24 | **siyuan-note/siyuan** | ⭐ 43,639 | 隐私优先、自托管的个人知识管理软件 🆕 | 开发者工具 |
-| 25 | **zeroclaw-labs/zeroclaw** | ⭐ 31,068 | Fast, small, and fully autonomous AI personal assistant 🆕 | 核心变种 |
+| 5 | **anthropics/skills** | ⭐ 128,828 | Anthropic 官方 Agent Skills 公开仓库 | 工具与技能 |
+| 6 | **langflow-ai/langflow** | ⭐ 147,756 | 强大的 AI Agent 与 Workflow 构建平台 | Agent 框架 |
+| 7 | **langgenius/dify** | ⭐ 140,264 | 生产级 Agentic Workflow 开发平台 | Agent 框架 |
+| 8 | **TradingAgents** | ⭐ 68,463 | 多 Agent LLM 金融交易框架 ↑ | 垂直领域 |
+| 9 | **deer-flow** | ⭐ 65,298 | 字节跳动开源 SuperAgent harness ↑🚀 | 核心变种 |
+| 10 | **cc-switch** | ⭐ 60,639 | 跨平台桌面 All-in-One 助手，支持 Claude Code/Codex/OpenCode/OpenClaw/Gemini CLI ↑ | 开发者工具 |
+| 11 | **learn-claude-code** | ⭐ 57,873 | Nano Claude Code-like Agent Harness ↑🚀 | 核心变种 |
+| 12 | **autogen** | ⭐ 57,667 | 微软开源编程框架 for Agentic AI ↑ | Agent 框架 |
+| 13 | **addyosmani/agent-skills** | ⭐ 31,998 | Google 工程师开源的生产级 AI 编码技能库 🆕 | 工具与技能 |
+| 14 | **crewAI** | ⭐ 50,732 | 多 Agent 协作编排框架，支持自主 AI Agents 角色扮演 ↑ | Agent 框架 |
+| 15 | **awesome-openclaw-skills** | ⭐ 48,031 | OpenClaw Skills 精选集合，5400+ 技能 ↑ | 工具与技能 |
+| 16 | **CherryHQ/cherry-studio** | ⭐ 45,075 | AI 生产力工作室，支持智能对话、自主 Agent 与 300+ 助手 | 开发者工具 |
+| 17 | **CowAgent** | ⭐ 44,064 | 超级 AI 助理，支持微信/飞书/钉钉、长期记忆和知识库 | 中国特色 |
+| 18 | **virattt/dexter** | ⭐ 24,582 | 自主金融研究 Agent，支持深度调研 🆕 | 垂直领域 |
+| 19 | **graphify** | ⭐ 43,583 | AI 编码助手技能，将代码库转化为可查询知识图谱 ↑ | 开发者工具 |
+| 20 | **nanobot (HKUDS)** | ⭐ 41,757 | Ultra-Lightweight OpenClaw，超轻量级 ↑ | 核心变种 |
+| 21 | **ruvnet/ruflo** | ⭐ 42,309 | Claude Agent 编排平台，支持多 Agent swarm、RAG 集成 | Agent 编排 |
+| 22 | **Claude-mem** | ⭐ 70,001 | Claude Code 记忆插件，自动捕获 AI 操作并注入未来会话 | 开发者工具 |
+| 23 | **NanoClaw** | ⭐ 28,525 | 轻量级替代方案，容器化运行，使用 Anthropic Agents SDK ↑ | 核心变种 |
+| 24 | **AstrBot** | ⭐ 31,435 | Agentic IM Chatbot 基础设施，多平台 LLM 机器人 | 中国特色 |
+| 25 | **Hmbown/DeepSeek-TUI** | ⭐ 16,913 | DeepSeek 模型的终端编码 Agent 🆕 | 开发者工具 |
 | 26 | **1Panel-dev/1Panel** | ⭐ 35,295 | 现代开源 VPS 控制面板，原生支持 OpenClaw 部署 🆕 | 工具与仪表板 |
 | 27 | **NemoClaw** | ⭐ 19,920 | NVIDIA 开源，在 OpenShell 内更安全地运行 OpenClaw | 核心变种 |
 | 28 | **SuperAGI** | ⭐ 17,295 | dev-first 开源自主 AI agent 框架 | 核心变种 |
@@ -1241,8 +1243,8 @@ OpenClaw (原 Clawdbot / Moltbot) - 369,864+ stars 🚀
 
 ---
 
-*🦞 Last updated: 2026-04-30 | ClawDen - OpenClaw 变种收集站*
+*🦞 Last updated: 2026-05-07 | ClawDen - OpenClaw 变种收集站*
 
 ---
 
-> 📅 自动更新于 2026-05-06 by ClawDen 自动更新 Cron
+> 📅 自动更新于 2026-05-07 by ClawDen 自动更新 Cron
